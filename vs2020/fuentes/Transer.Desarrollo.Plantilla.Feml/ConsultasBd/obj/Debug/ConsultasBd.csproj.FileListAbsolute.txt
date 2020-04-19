@@ -1,0 +1,12 @@
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\obj\Debug\ConsultasBd.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\obj\Debug\ConsultasBd.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\ConsultasBd.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\ConsultasBd.exe
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\ConsultasBd.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\AccesoDatos.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\AccesoDatos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\bin\Debug\AccesoDatos.dll.config
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\obj\Debug\ConsultasBd.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\obj\Debug\ConsultasBd.exe
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\ConsultasBd\obj\Debug\ConsultasBd.pdb

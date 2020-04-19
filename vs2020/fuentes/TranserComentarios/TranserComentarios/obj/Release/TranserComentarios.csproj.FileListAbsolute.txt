@@ -1,0 +1,9 @@
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\bin\TranserComentarios.dll
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\bin\TranserComentarios.pdb
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\obj\Release\TranserComentarios.dll
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\obj\Release\TranserComentarios.pdb
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\bin\TranserComentarios.dll
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\bin\TranserComentarios.pdb
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\obj\Release\TranserComentarios.csprojResolveAssemblyReference.cache
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\obj\Release\TranserComentarios.dll
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\obj\Release\TranserComentarios.pdb

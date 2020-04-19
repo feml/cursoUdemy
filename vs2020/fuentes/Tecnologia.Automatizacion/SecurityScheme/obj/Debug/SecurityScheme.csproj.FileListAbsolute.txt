@@ -1,0 +1,5 @@
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SecurityScheme\bin\Debug\SecurityScheme.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SecurityScheme\bin\Debug\SecurityScheme.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SecurityScheme\obj\Debug\SecurityScheme.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SecurityScheme\obj\Debug\SecurityScheme.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SecurityScheme\obj\Debug\SecurityScheme.pdb

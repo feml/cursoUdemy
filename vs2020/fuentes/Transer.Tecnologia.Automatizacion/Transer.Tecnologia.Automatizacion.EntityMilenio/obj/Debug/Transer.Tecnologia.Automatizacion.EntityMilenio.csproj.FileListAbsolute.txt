@@ -1,0 +1,5 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityMilenio\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMilenio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityMilenio\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMilenio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityMilenio\obj\Debug\Transer.Tecnologia.Automatizacion.EntityMilenio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityMilenio\obj\Debug\Transer.Tecnologia.Automatizacion.EntityMilenio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityMilenio\obj\Debug\Transer.Tecnologia.Automatizacion.EntityMilenio.csprojAssemblyReference.cache

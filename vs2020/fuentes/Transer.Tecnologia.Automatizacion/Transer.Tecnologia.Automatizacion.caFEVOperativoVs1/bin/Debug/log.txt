@@ -1,0 +1,48 @@
+Fecha : martes, 17 de diciembre de 2019  2:08:07 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  var varchar2(4000);  begin  PDB_INFO_NCT_DIAN_21 (:factura,:oficina,:tipodoc,:tipotransaccion,var);  end; 
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 39:
+PLS-00201: identifier 'PDB_INFO_NCT_DIAN_21' must be declared
+ORA-06550: línea 1, columna 39:
+PL/SQL: Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : martes, 17 de diciembre de 2019  2:49:33 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+FDB_LEER_ANEXOS_DIAN
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 15:
+PLS-00201: identifier 'FDB_LEER_ANEXOS_DIAN' must be declared
+ORA-06550: línea 1, columna 7:
+PL/SQL: Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : martes, 17 de diciembre de 2019  2:49:47 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+FDB_LEER_ANEXOS_DIAN
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 15:
+PLS-00201: identifier 'FDB_LEER_ANEXOS_DIAN' must be declared
+ORA-06550: línea 1, columna 7:
+PL/SQL: Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

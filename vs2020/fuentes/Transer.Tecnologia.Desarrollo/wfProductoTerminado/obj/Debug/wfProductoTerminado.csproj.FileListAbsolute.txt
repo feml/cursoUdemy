@@ -1,0 +1,17 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\wfProductoTerminado.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\wfProductoTerminado.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\wfProductoTerminado.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\executionreports.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\buildselect.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\executionreports.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\bin\Debug\buildselect.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.Form1.resources
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.Properties.Resources.resources
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.csproj.GenerateResource.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfProductoTerminado\obj\Debug\wfProductoTerminado.pdb

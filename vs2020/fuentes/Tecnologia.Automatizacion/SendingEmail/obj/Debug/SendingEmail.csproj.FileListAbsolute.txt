@@ -1,0 +1,9 @@
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\bin\Debug\SendingEmail.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\bin\Debug\SendingEmail.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\bin\Debug\SecurityScheme.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\bin\Debug\SecurityScheme.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\obj\Debug\SendingEmail.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\obj\Debug\SendingEmail.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\obj\Debug\SendingEmail.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\obj\Debug\SendingEmail.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\SendingEmail\obj\Debug\SendingEmail.pdb

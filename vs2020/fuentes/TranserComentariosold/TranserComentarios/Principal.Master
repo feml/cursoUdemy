@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="TranserComentarios.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="capaTotal">
+            <div id="cabecera">
+                <div id="contenidoCabecera">
+                    <div id="barraHorizontal">
+                        <ul>
+                            <li><a href="/Default.aspx">COMENTARIOS</a></li>
+                            <li><a href="http://www.transer.com.co">TRANSER</a></li>
+                        </ul>
+                    </div>
+                    <div id="logotipo">
+                        <img src="/Imagenes/Logo-transer.png" alt="Logo Transer" height="60" />
+                    </div>
+                    <div id="titulo">
+                        <h1>ESPACIO PARA EL REPORTE</h1>
+                        <h2>PARTICIPACION Y CONSULTA</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div id="bajo">
+
+                <div id="columnIzq">
+                    <asp:ContentPlaceHolder ID="contenidoMenuContextual" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                </div>
+                <div id="columCentro">
+                    <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="columnDer">
+                    <div id="publicidad">
+                        <img src="/Imagenes/fulllogo.png" width="186" />
+                    </div>
+                    <div id="redesSociales">
+                        <img src="/Imagenes/certificaciones.png" width="160" />
+                        <img src="/Imagenes/reciclar.png" width="160" />
+
+                    </div>
+                </div>
+                <div id="pie">
+                    <span>web de Francisco Montoya Lopez</span>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

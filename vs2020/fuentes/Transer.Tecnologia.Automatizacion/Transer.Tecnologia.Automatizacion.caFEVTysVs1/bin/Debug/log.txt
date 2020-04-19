@@ -1,0 +1,28 @@
+Fecha : martes, 14 de enero de 2020  5:36:10 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare   begin   declare  begin  insert into upload (uplo_secuencia_nb,uplo_fechaenvio_ts,uplo_filename_v2,uplo_filedata_bl,uplo_companyid_v2, uplo_accountid_v2, uplo_status_v2, uplo_transactionid_v2, uplo_xmlfactura_bl, uplo_soapenviado_bl, uplo_soaprespuesta_bl)  values (upload_sequence.nextval,sysdate,:filename,:filedata,:companyid,:accountid,:status,:transactionid,:xmlfactura,:soapenviado,:soaprespuesta);end; end;
+ 
+Informacion Asociada al Error... 
+Number : 1691
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01691: no se ha podido ampliar el segmento LOB TRANSER.SYS_LOB0000092461C00010$$ en 768 en el tablespace TS_MILDATOS_03
+ORA-06512: en línea 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : martes, 14 de enero de 2020  5:38:34 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare   begin   declare  begin  insert into upload (uplo_secuencia_nb,uplo_fechaenvio_ts,uplo_filename_v2,uplo_filedata_bl,uplo_companyid_v2, uplo_accountid_v2, uplo_status_v2, uplo_transactionid_v2, uplo_xmlfactura_bl, uplo_soapenviado_bl, uplo_soaprespuesta_bl)  values (upload_sequence.nextval,sysdate,:filename,:filedata,:companyid,:accountid,:status,:transactionid,:xmlfactura,:soapenviado,:soaprespuesta);end; end;
+ 
+Informacion Asociada al Error... 
+Number : 1691
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01691: no se ha podido ampliar el segmento LOB TRANSER.SYS_LOB0000092461C00010$$ en 768 en el tablespace TS_MILDATOS_03
+ORA-06512: en línea 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

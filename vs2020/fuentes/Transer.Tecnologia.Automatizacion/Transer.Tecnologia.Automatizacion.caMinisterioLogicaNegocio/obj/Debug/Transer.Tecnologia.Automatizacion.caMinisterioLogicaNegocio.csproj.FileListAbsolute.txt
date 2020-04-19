@@ -1,0 +1,16 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.dll.config
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Correo.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMinisterio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Correo.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMinisterio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caMinisterioLogicaNegocio.pdb

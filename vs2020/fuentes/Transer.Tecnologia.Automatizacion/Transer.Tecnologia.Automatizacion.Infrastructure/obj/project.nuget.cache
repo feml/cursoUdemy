@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Vo1yeBlm8D9NLGmygTBX/vvn/GhMMQ7cgN0wrnIcK7I08m/Z9SRVBCyLoxqZB8w6lp98hXu21R78U1613JKKA==",
+  "success": true,
+  "projectFilePath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Tecnologia.Automatizacion\\Transer.Tecnologia.Automatizacion.Infrastructure\\Transer.Tecnologia.Automatizacion.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc_000\\.nuget\\packages\\oracle.manageddataaccess\\19.5.0\\oracle.manageddataaccess.19.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

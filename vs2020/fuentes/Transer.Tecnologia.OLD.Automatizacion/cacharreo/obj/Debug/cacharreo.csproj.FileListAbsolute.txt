@@ -1,0 +1,14 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\cacharreo.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\cacharreo.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\cacharreo.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\obj\Debug\cacharreo.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\obj\Debug\cacharreo.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\obj\Debug\cacharreo.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\obj\Debug\cacharreo.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\LogicaNegocio.Ministerio.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\LogicaNegocio.Ministerio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\obj\Debug\cacharreo.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\Infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\Infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\cacharreo\bin\Debug\Infrastructure.dll.config

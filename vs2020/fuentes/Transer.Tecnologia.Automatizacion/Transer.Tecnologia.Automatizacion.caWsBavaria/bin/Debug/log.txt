@@ -1,0 +1,44 @@
+Fecha : miércoles, 27 de noviembre de 2019  4:28:40 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  insert into det_log_bavaria(DEBA_SECUENCIA_NB,DEBA_LOGBAVARIA_NB,DEBA_OFICINA_NB,DEBA_TRANSACCION_NB,DEBA_LLAVE_V2,DEBA_NUMACEPTA_NB,DEBA_ESTADO_V2,DEBA_SOAPENVIADO_V2,DEBA_SOAPRECIBIDO_V2,DEBA_FECPROCESA_DT,DEBA_CAMPO1_NB,DEBA_CAMPO2_DT,DEBA_CAMPO3_V2)  values ((select count(DEBA_SECUENCIA_NB)+1 from det_log_bavaria where DEBA_LOGBAVARIA_NB=:logbavaria and DEBA_OFICINA_NB=:oficina),:logbavaria,:oficina,4,:llave,:numacepta,:estado,:soapenviado,:soaprecibido,sysdate,null,null,null);  end;  
+ 
+Informacion Asociada al Error... 
+Number : 1
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-00001: restricción única (TRANSER.LOGBAVDET_PK) violada
+ORA-06512: en línea 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : miércoles, 27 de noviembre de 2019  4:40:54 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  insert into det_log_bavaria(DEBA_SECUENCIA_NB,DEBA_LOGBAVARIA_NB,DEBA_OFICINA_NB,DEBA_TRANSACCION_NB,DEBA_LLAVE_V2,DEBA_NUMACEPTA_NB,DEBA_ESTADO_V2,DEBA_SOAPENVIADO_V2,DEBA_SOAPRECIBIDO_V2,DEBA_FECPROCESA_DT,DEBA_CAMPO1_NB,DEBA_CAMPO2_DT,DEBA_CAMPO3_V2)  values ((select count(DEBA_SECUENCIA_NB)+1 from det_log_bavaria where DEBA_LOGBAVARIA_NB=:logbavaria and DEBA_OFICINA_NB=:oficina),:logbavaria,:oficina,4,:llave,:numacepta,:estado,:soapenviado,:soaprecibido,sysdate,null,null,null);  end;  
+ 
+Informacion Asociada al Error... 
+Number : 1
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-00001: restricción única (TRANSER.LOGBAVDET_PK) violada
+ORA-06512: en línea 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : lunes, 02 de diciembre de 2019  8:54:10 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2  from LOG_REPORTE_BAVARIA  where REBA_SECUENCIA_NB > 53210  and trunc(REBA_FECHA_DT) between trunc(sysdate-341) and trunc(sysdate-59)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 157:
+PL/SQL: ORA-00942: la tabla o vista no existe
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

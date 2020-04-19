@@ -1,0 +1,21 @@
+Fecha : lunes, 23 de diciembre de 2019  11:15:27 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : lunes, 23 de diciembre de 2019  11:17:37 a. m.
+Se Produjo un error de tipo Exception:
+La columna 'LRMI_SECUENCIA_NB' no pertenece a la tabla .
+Fecha : jueves, 02 de enero de 2020  5:08:03 p. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : jueves, 02 de enero de 2020  5:18:57 p. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : viernes, 03 de enero de 2020  11:35:46 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : viernes, 03 de enero de 2020  11:36:25 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : viernes, 03 de enero de 2020  11:38:32 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.

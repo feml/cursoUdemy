@@ -1,0 +1,14 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.Test.exe.config
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.Test.exe
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.Test.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\obj\Debug\Transer.Tecnologia.Automatizacion.Test.exe
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\obj\Debug\Transer.Tecnologia.Automatizacion.Test.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\obj\Debug\Transer.Tecnologia.Automatizacion.Test.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\bin\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Test\obj\Debug\Transer.Tecnologia.Automatizacion.Test.csproj.CopyComplete

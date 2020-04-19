@@ -1,0 +1,2 @@
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\BuildCommands\obj\Debug\BuildCommands.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\BuildCommands\obj\Debug\BuildCommands.csproj.CoreCompileInputs.cache

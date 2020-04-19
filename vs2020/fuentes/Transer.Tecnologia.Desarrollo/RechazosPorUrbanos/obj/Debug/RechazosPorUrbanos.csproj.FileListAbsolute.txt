@@ -1,0 +1,6 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\RechazosPorUrbanos\bin\Debug\RechazosPorUrbanos.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\RechazosPorUrbanos\bin\Debug\RechazosPorUrbanos.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\RechazosPorUrbanos\bin\Debug\RechazosPorUrbanos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\RechazosPorUrbanos\obj\Debug\RechazosPorUrbanos.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\RechazosPorUrbanos\obj\Debug\RechazosPorUrbanos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\RechazosPorUrbanos\obj\Debug\RechazosPorUrbanos.csprojAssemblyReference.cache

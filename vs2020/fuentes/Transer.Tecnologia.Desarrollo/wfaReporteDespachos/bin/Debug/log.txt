@@ -1,0 +1,8 @@
+Fecha : miércoles, 01 de abril de 2020  2:41:41 p. m.
+Se Produjo un error al ejecutar el comando de tipo Exception:
+
+ 
+Informacion Asociada al Error... 
+Error : No se pueden leer los datos de la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto.
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

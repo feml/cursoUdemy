@@ -1,0 +1,435 @@
+C:\Sistemas\plamprea\control_flota\control_flota\bin\Debug\control_flota.exe
+C:\Sistemas\plamprea\control_flota\control_flota\bin\Debug\control_flota.pdb
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+C:\Sistemas\plamprea\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\Sistemas\plamprea\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\Sistemas\plamprea\control_flota\control_flota\bin\Debug\control_flota.XML
+T:\pedro\control_flota\control_flota\bin\Debug\control_flota.XML
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+T:\pedro\control_flota\control_flota\bin\Debug\control_flota.exe
+T:\pedro\control_flota\control_flota\bin\Debug\control_flota.pdb
+T:\pedro\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+T:\pedro\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+T:\pedro\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\bin\Debug\control_flota.XML
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\bin\Debug\control_flota.exe
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\bin\Debug\control_flota.pdb
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+T:\mis documentos\escritorio\proyectos 2014\control flota v07012014\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\sistemas\2014\fuentes\control_flota\control_flota\bin\Debug\control_flota.XML
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+C:\sistemas\2014\fuentes\control_flota\control_flota\bin\Debug\control_flota.exe
+C:\sistemas\2014\fuentes\control_flota\control_flota\bin\Debug\control_flota.pdb
+C:\sistemas\2014\fuentes\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\sistemas\2014\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.exe
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.pdb
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\bin\Debug\control_flota.exe
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\bin\Debug\control_flota.pdb
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\fuentes\CONTROL OPERATIVO\control_flota_17022014\control_flota\bin\Debug\control_flota.XML
+C:\proyectos\fuentes\control_flota\control_flota\bin\Debug\control_flota.XML
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\proyectos\fuentes\control_flota\control_flota\bin\Debug\control_flota.exe
+C:\proyectos\fuentes\control_flota\control_flota\bin\Debug\control_flota.pdb
+C:\proyectos\fuentes\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\operativo\control_flota\control_flota\bin\Debug\control_flota.XML
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\operativo\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\operativo\control_flota\control_flota\bin\Debug\control_flota.exe
+C:\operativo\control_flota\control_flota\bin\Debug\control_flota.pdb
+C:\operativo\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\operativo\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\operativo\control_flota 64Bits\control_flota\bin\Debug\control_flota.XML
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.exe
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.pdb
+C:\operativo\control_flota 64Bits\control_flota\bin\Debug\control_flota.exe
+C:\operativo\control_flota 64Bits\control_flota\bin\Debug\control_flota.pdb
+C:\operativo\control_flota 64Bits\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\operativo\control_flota 64Bits\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\bin\Debug\control_flota.XML
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.exe
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.pdb
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\bin\Debug\control_flota.exe
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\bin\Debug\control_flota.pdb
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\Users\fmontoya.TRANSER\Desktop\control_flota 64Bits\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\bin\Debug\control_flota.XML
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.exe
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.pdb
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\bin\Debug\control_flota.exe
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\bin\Debug\control_flota.pdb
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.csprojResolveAssemblyReference.cache
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.Cache
+C:\Users\katurro\Google Drive\control_flota 64Bits\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_atendidos.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_enturnados_taller.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_parqueaderos.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_reparacion_externa.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Consultas.frm_cons_taller.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_control_flota.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Control_flota.frm_Validacion.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_anular_registro.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_salida_taller.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.Properties.Resources.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.frm_contenedor.es-CO.resources
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.GenerateResource.cache
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.exe
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.pdb
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\control_flota.exe.config
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\control_flota.XML
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\control_flota.exe
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\control_flota.pdb
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.ValueTuple.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\netstandard.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.AppContext.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Collections.Concurrent.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Collections.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Collections.NonGeneric.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Collections.Specialized.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.ComponentModel.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.ComponentModel.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Console.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Data.Common.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.Contracts.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.Debug.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.Process.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.Tools.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Diagnostics.Tracing.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Drawing.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Dynamic.Runtime.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Globalization.Calendars.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Globalization.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Globalization.Extensions.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.Compression.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.FileSystem.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.IsolatedStorage.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.Pipes.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Linq.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Linq.Expressions.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Linq.Parallel.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Linq.Queryable.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.Http.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.NameResolution.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.NetworkInformation.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.Ping.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.Requests.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.Security.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.Sockets.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.WebSockets.Client.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Net.WebSockets.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.ObjectModel.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Reflection.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Reflection.Extensions.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Reflection.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Resources.Reader.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Resources.ResourceManager.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Resources.Writer.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Extensions.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Handles.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.InteropServices.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Numerics.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Claims.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.Principal.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Security.SecureString.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Text.Encoding.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Text.RegularExpressions.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.Overlapped.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.Tasks.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.Thread.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.ThreadPool.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Threading.Timer.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Xml.ReaderWriter.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Xml.XDocument.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Xml.XmlDocument.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Xml.XmlSerializer.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Xml.XPath.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\es-CO\control_flota.resources.dll
+C:\proyectos\vs2020\fuentes\control_flota\control_flota\obj\x86\Debug\control_flota.csproj.CopyComplete

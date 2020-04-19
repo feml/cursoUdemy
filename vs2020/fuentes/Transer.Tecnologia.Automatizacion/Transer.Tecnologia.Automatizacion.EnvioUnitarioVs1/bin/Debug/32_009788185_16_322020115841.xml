@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+  <acceso>
+    <username>TYSROBOT@0764</username>
+    <password>TYS8605</password>
+    <simulacion>S</simulacion>
+  </acceso>
+  <solicitud>
+    <tipo>1</tipo>
+    <procesoid>32</procesoid>
+  </solicitud>
+  <variables>
+    <NUMNITEMPRESATRANSPORTE>8605048823</NUMNITEMPRESATRANSPORTE>
+    <numManifiestoCarga>009788185</numManifiestoCarga>
+    <motivoAnulacionManifiesto>S</motivoAnulacionManifiesto>
+    <observaciones>CAMBIO DE VIAJE</observaciones>
+  </variables>
+</root>

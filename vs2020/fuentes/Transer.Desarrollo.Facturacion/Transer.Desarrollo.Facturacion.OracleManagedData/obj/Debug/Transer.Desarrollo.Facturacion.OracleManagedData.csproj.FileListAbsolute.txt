@@ -1,0 +1,16 @@
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\obj\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\obj\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Correo.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Entidades.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Registro.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Vgp.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Correo.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Entidades.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Registro.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\bin\Debug\Transer.Desarrollo.Facturacion.Vgp.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\obj\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\obj\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.OracleManagedData\obj\Debug\Transer.Desarrollo.Facturacion.OracleManagedData.pdb

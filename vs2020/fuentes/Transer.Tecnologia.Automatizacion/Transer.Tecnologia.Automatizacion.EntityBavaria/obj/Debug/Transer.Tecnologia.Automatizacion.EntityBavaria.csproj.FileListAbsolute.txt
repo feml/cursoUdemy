@@ -1,0 +1,4 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityBavaria\bin\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityBavaria\bin\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityBavaria\obj\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EntityBavaria\obj\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.pdb

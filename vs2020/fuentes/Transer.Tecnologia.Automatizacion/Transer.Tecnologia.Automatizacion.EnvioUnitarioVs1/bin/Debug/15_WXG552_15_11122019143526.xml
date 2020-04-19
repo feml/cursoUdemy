@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+  <acceso>
+    <username>TYSROBOT@0764</username>
+    <password>TYS8605</password>
+    <simulacion>S</simulacion>
+  </acceso>
+  <solicitud>
+    <tipo>1</tipo>
+    <procesoid>12</procesoid>
+  </solicitud>
+  <variables>
+    <NUMNITEMPRESATRANSPORTE>8605048823</NUMNITEMPRESATRANSPORTE>
+    <numPlaca>WXG552</numPlaca>
+    <codConfiguracionUnidadCarga>50</codConfiguracionUnidadCarga>
+    <codMarcaVehiculoCarga>1</codMarcaVehiculoCarga>
+    <codLineaVehiculoCarga>202</codLineaVehiculoCarga>
+    <anoFabricacionVehiculoCarga>1994</anoFabricacionVehiculoCarga>
+    <codColorVehiculoCarga>335</codColorVehiculoCarga>
+    <pesoVehiculoVacio>1300</pesoVehiculoVacio>
+    <capacidadUnidadCarga>1000</capacidadUnidadCarga>
+    <unidadMedidaCapacidad>1</unidadMedidaCapacidad>
+    <codTipoCarroceria>0</codTipoCarroceria>
+    <numChasis>TS94233410</numChasis>
+    <codTipoCombustible>1</codTipoCombustible>
+    <numSeguroSoat>14185900009220</numSeguroSoat>
+    <fechaVencimientoSoat>26/02/2020</fechaVencimientoSoat>
+    <numNitAseguradoraSoat>8600095786</numNitAseguradoraSoat>
+    <codTipoIdPropietario>C</codTipoIdPropietario>
+    <numIdPropietario>20737093</numIdPropietario>
+    <codTipoIdTenedor>C</codTipoIdTenedor>
+    <numIdTenedor>79189958</numIdTenedor>
+  </variables>
+</root>

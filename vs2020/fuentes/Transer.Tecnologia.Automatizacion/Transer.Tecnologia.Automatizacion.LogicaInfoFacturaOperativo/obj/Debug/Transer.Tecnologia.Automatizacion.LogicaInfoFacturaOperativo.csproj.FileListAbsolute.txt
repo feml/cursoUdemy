@@ -1,0 +1,15 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaInfoFacturaOperativo.pdb

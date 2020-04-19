@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\infrastructure\\infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\buildselect\\buildselect.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\buildselect\\buildselect.csproj",
+        "projectName": "buildselect",
+        "projectPath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\buildselect\\buildselect.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\executionreports\\executionreports.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\executionreports\\executionreports.csproj",
+        "projectName": "executionreports",
+        "projectPath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\executionreports\\executionreports.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\infrastructure\\infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\infrastructure\\infrastructure.csproj",
+        "projectName": "infrastructure",
+        "projectPath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\infrastructure\\infrastructure.csproj",
+        "packagesPath": "C:\\Users\\franc_000\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\franc_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\buildselect\\buildselect.csproj": {
+                "projectPath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\buildselect\\buildselect.csproj"
+              },
+              "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\executionreports\\executionreports.csproj": {
+                "projectPath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Desarrollo\\executionreports\\executionreports.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.60, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

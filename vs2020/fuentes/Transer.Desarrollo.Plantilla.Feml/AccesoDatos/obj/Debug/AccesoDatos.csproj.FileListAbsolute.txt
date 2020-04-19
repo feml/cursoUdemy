@@ -1,0 +1,8 @@
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Plantilla.Feml\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete

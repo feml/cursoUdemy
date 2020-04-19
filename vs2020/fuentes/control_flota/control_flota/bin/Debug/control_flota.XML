@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>control_flota</name>
+    </assembly>
+    <members>
+        <member name="T:control_flota.frm_contenedor">
+            <summary>
+            public partial class frm_contenedor : Form
+            </summary>
+        </member>
+        <member name="M:control_flota.frm_contenedor.#ctor">
+            <summary>
+            public frm_contenedor()
+            </summary>
+        </member>
+        <member name="F:control_flota.frm_contenedor.components">
+            <summary>
+            Variable del diseñador requerida.
+            </summary>
+        </member>
+        <member name="M:control_flota.frm_contenedor.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén utilizando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben eliminar; false en caso contrario, false.</param>
+        </member>
+        <member name="M:control_flota.frm_contenedor.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido del método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_anulaciones_taller.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_anulacion_oficinas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_atendidos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_atendidos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_atendidos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.#ctor(System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="usuario"></param>
+            <param name="password"></param>
+            <param name="cadena"></param>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_enturnados_oficinas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:control_flota.Formularios.Consultas.frm_cons_enturnados_taller">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_enturnados_taller.#ctor(System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="usuario"></param>
+            <param name="password"></param>
+            <param name="cadena"></param>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_enturnados_taller.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_enturnados_taller.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_enturnados_taller.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_parqueaderos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_parqueaderos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_parqueaderos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_reparacion_externa.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_reparacion_externa.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_reparacion_externa.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_solicitud_ingreso.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Consultas.frm_cons_taller.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_taller.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Consultas.frm_cons_taller.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Control_flota.frm_control_flota.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Control_flota.frm_control_flota.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Control_flota.frm_control_flota.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Control_flota.frm_Validacion.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Control_flota.frm_Validacion.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Control_flota.frm_Validacion.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_inconsistencias.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_atender_parqueadero.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_inconsistencias.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Solucionar_Inconsistencias.frm_inco_consultar_parqueadero.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_anular_registro.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_anular_registro.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_anular_registro.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_ingreso_parqueadero.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_ingreso_repexterna.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_ingreso_repexterna.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_ingreso_repexterna.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_ingreso_taller.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_salida_parqueadero.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_salida_repexterna.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_salida_repexterna.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_salida_repexterna.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_salida_taller.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_salida_taller.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_salida_taller.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.#ctor(System.String,System.String,System.String)">
+            <summary>
+            public frm_tran_solicitar_turno(string usuario, string password, string cadena)
+            </summary>
+            <param name="usuario"></param>
+            <param name="password"></param>
+            <param name="cadena"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            private void button2_Click(object sender, EventArgs e)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.frm_tran_solicitar_turno_Load(System.Object,System.EventArgs)">
+            <summary>
+            private void frm_tran_solicitar_turno_Load(object sender, EventArgs e)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.cbx_conductor_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            private void cbx_conductor_SelectedIndexChanged(object sender, EventArgs e)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.cbx_vehiculo_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            private void cbx_vehiculo_SelectedIndexChanged(object sender, EventArgs e)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.cbx_trailer_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            private void cbx_trailer_SelectedIndexChanged(object sender, EventArgs e)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.btn_registrar_Click(System.Object,System.EventArgs)">
+            <summary>
+            private void btn_registrar_Click(object sender, EventArgs e)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.cargar_consulta">
+            <summary>
+            private void cargar_consulta()
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitar_turno.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:control_flota.Formularios.Transacciones.frm_tran_solicitud_ingreso.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:control_flota.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="T:control_flota.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.Culture">
+            <summary>
+              Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.Enturne_S_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.EnViaje_S_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.Park_S_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.Taller_S_">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:control_flota.Properties.Resources.warning_sign1">
+            <summary>
+              Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

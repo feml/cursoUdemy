@@ -1,0 +1,17 @@
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\caHistoryPlanilla.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\caHistoryPlanilla.exe
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\caHistoryPlanilla.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\fml.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\EntityMinisterio.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\EntityMilenio.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\fml.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\fml.dll.config
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\EntityMinisterio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\bin\Debug\EntityMilenio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\obj\Debug\caHistoryPlanilla.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\obj\Debug\caHistoryPlanilla.exe
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\obj\Debug\caHistoryPlanilla.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\caHistoryPlanilla\obj\Debug\caHistoryPlanilla.csproj.CoreCompileInputs.cache

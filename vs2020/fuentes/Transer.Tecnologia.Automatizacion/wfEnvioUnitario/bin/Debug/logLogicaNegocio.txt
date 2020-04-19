@@ -1,0 +1,9 @@
+Fecha : martes, 21 de enero de 2020  2:41:03 p. m.
+Se Produjo un error de tipo Exception:
+No se puede reconocer la cadena como valor DateTime válido.
+Fecha : martes, 21 de enero de 2020  2:41:22 p. m.
+Se Produjo un error de tipo Exception:
+No se puede reconocer la cadena como valor DateTime válido.
+Fecha : martes, 21 de enero de 2020  2:41:58 p. m.
+Se Produjo un error de tipo Exception:
+No se puede reconocer la cadena como valor DateTime válido.

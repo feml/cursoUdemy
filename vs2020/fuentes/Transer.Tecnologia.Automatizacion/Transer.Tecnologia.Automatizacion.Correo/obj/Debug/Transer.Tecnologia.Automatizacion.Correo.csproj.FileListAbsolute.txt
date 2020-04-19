@@ -1,0 +1,9 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\bin\Debug\Transer.Tecnologia.Automatizacion.Correo.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\bin\Debug\Transer.Tecnologia.Automatizacion.Correo.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\obj\Debug\Transer.Tecnologia.Automatizacion.Correo.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\obj\Debug\Transer.Tecnologia.Automatizacion.Correo.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\obj\Debug\Transer.Tecnologia.Automatizacion.Correo.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\obj\Debug\Transer.Tecnologia.Automatizacion.Correo.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Correo\obj\Debug\Transer.Tecnologia.Automatizacion.Correo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+Fecha : viernes, 10 de enero de 2020  11:08:37 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.

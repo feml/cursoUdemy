@@ -1,0 +1,13 @@
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.CallExec.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.CallExec.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.Registro.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.Vgp.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.Entidades.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.Registro.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.Vgp.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\bin\Debug\Transer.Desarrollo.Facturacion.Entidades.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\obj\Debug\Transer.Desarrollo.Facturacion.CallExec.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\obj\Debug\Transer.Desarrollo.Facturacion.CallExec.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\obj\Debug\Transer.Desarrollo.Facturacion.CallExec.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\obj\Debug\Transer.Desarrollo.Facturacion.CallExec.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.CallExec\obj\Debug\Transer.Desarrollo.Facturacion.CallExec.pdb

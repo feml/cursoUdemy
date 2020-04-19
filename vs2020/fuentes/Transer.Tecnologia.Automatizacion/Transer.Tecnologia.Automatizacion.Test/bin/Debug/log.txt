@@ -1,0 +1,93 @@
+Fecha : lunes, 23 de diciembre de 2019  11:15:25 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2,  REBA_CAMPO1_NB,  REBA_CAMPO2_DT,  REBA_CAMPO3_V2  from log_reporte_bavaria  where trunc(REBA_FECHA_DT) between trunc(sysdate-360) and trunc(sysdate)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable ligada no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : jueves, 02 de enero de 2020  5:08:03 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2,  REBA_CAMPO1_NB,  REBA_CAMPO2_DT,  REBA_CAMPO3_V2  from log_reporte_bavaria  where trunc(REBA_FECHA_DT) between trunc(sysdate-390) and trunc(sysdate)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 208:
+PL/SQL: ORA-00942: la tabla o vista no existe
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : jueves, 02 de enero de 2020  5:18:57 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2,  REBA_CAMPO1_NB,  REBA_CAMPO2_DT,  REBA_CAMPO3_V2  from log_reporte_bavaria  where trunc(REBA_FECHA_DT) between trunc(sysdate-390) and trunc(sysdate)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 208:
+PL/SQL: ORA-00942: la tabla o vista no existe
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : viernes, 03 de enero de 2020  11:35:46 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2,  REBA_CAMPO1_NB,  REBA_CAMPO2_DT,  REBA_CAMPO3_V2  from log_reporte_bavaria  where trunc(REBA_FECHA_DT) between trunc(sysdate-400) and trunc(sysdate)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 208:
+PL/SQL: ORA-00942: la tabla o vista no existe
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : viernes, 03 de enero de 2020  11:36:25 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2,  REBA_CAMPO1_NB,  REBA_CAMPO2_DT,  REBA_CAMPO3_V2  from log_reporte_bavaria  where trunc(REBA_FECHA_DT) between trunc(sysdate-400) and trunc(sysdate)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 208:
+PL/SQL: ORA-00942: la tabla o vista no existe
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : viernes, 03 de enero de 2020  11:38:32 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select REBA_SECUENCIA_NB,  REBA_OFICINA_NB,  REBA_TRANSACCION_NB,  REBA_LLAVE_V2,  REBA_FECHA_DT,  REBA_ESTADO_V2,  REBA_CAMPO1_NB,  REBA_CAMPO2_DT,  REBA_CAMPO3_V2  from log_reporte_bavaria  where trunc(REBA_FECHA_DT) between trunc(sysdate-400) and trunc(sysdate)  order by REBA_SECUENCIA_NB; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 208:
+PL/SQL: ORA-00942: la tabla o vista no existe
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

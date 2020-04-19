@@ -1,0 +1,11 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\obj\Debug\infrastructure.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\obj\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\obj\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\obj\Debug\infrastructure.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\buildselect.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\executionreports.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\buildselect.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\infrastructure\bin\Debug\executionreports.pdb

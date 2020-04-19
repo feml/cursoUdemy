@@ -1,0 +1,339 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Oracle.ManagedDataAccess.Core/2.19.31": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Correo/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0",
+          "Transer.Desarrollo.Facturacion.Registro": "1.0.0",
+          "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Entidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Registro/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Oracle.ManagedDataAccess.Core/2.19.31": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Correo/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0",
+          "Transer.Desarrollo.Facturacion.Registro": "1.0.0",
+          "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Entidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Registro/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Oracle.ManagedDataAccess.Core/2.19.31": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Correo/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0",
+          "Transer.Desarrollo.Facturacion.Registro": "1.0.0",
+          "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Entidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Registro/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Oracle.ManagedDataAccess.Core/2.19.31": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Correo/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0",
+          "Transer.Desarrollo.Facturacion.Registro": "1.0.0",
+          "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Correo.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Entidades/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Entidades.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.Registro/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.Registro.dll": {}
+        }
+      },
+      "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Transer.Desarrollo.Facturacion.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oracle.ManagedDataAccess.Core/2.19.31": {
+      "sha512": "JTt7i9z3A5StZvYWzVz9IIjzSy8Lzxp1LV04TKAQkx5XMPx+WSi91MShrUHpeQNWZqL9osFe4LJPkDCNigCdCQ==",
+      "type": "package",
+      "path": "oracle.manageddataaccess.core/2.19.31",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PerfCounters/register_odpc_perfmon_counters.ps1",
+        "PerfCounters/unregister_odpc_perfmon_counters.ps1",
+        "info.txt",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "oracle.manageddataaccess.core.2.19.31.nupkg.sha512",
+        "oracle.manageddataaccess.core.nuspec",
+        "readme.txt",
+        "recursive"
+      ]
+    },
+    "Transer.Desarrollo.Facturacion.Correo/1.0.0": {
+      "type": "project",
+      "path": "../Transer.Desarrollo.Facturacion.Correo/Transer.Desarrollo.Facturacion.Correo.csproj",
+      "msbuildProject": "../Transer.Desarrollo.Facturacion.Correo/Transer.Desarrollo.Facturacion.Correo.csproj"
+    },
+    "Transer.Desarrollo.Facturacion.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Transer.Desarrollo.Facturacion.Entidades/Transer.Desarrollo.Facturacion.Entidades.csproj",
+      "msbuildProject": "../Transer.Desarrollo.Facturacion.Entidades/Transer.Desarrollo.Facturacion.Entidades.csproj"
+    },
+    "Transer.Desarrollo.Facturacion.Registro/1.0.0": {
+      "type": "project",
+      "path": "../Transer.Desarrollo.Facturacion.Registro/Transer.Desarrollo.Facturacion.Registro.csproj",
+      "msbuildProject": "../Transer.Desarrollo.Facturacion.Registro/Transer.Desarrollo.Facturacion.Registro.csproj"
+    },
+    "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto/1.0.0": {
+      "type": "project",
+      "path": "../Transer.Desarrollo.Facturacion.Vgp/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj",
+      "msbuildProject": "../Transer.Desarrollo.Facturacion.Vgp/Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Oracle.ManagedDataAccess.Core >= 2.19.31",
+      "Transer.Desarrollo.Facturacion.Correo >= 1.0.0",
+      "Transer.Desarrollo.Facturacion.Entidades >= 1.0.0",
+      "Transer.Desarrollo.Facturacion.Registro >= 1.0.0",
+      "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\franc_000\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj",
+      "projectName": "Transer.Desarrollo.Facturacion.OracleManagedData",
+      "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj",
+      "packagesPath": "C:\\Users\\franc_000\\.nuget\\packages\\",
+      "outputPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\franc_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packagesource": {},
+        "https://www.nuget.org/api/v2": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj": {
+              "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj"
+            },
+            "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj": {
+              "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj"
+            },
+            "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj": {
+              "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj"
+            },
+            "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj": {
+              "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Oracle.ManagedDataAccess.Core": {
+            "target": "Package",
+            "version": "[2.19.31, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

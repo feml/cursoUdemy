@@ -1,0 +1,9 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\bin\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\bin\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\obj\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\obj\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\obj\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\obj\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument\obj\Debug\Transer.Tecnologia.Automatizacion.HttpsSendXmlDocument.csproj.CoreCompileInputs.cache

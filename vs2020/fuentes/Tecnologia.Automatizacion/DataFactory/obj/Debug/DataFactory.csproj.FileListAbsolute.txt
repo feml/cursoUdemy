@@ -1,0 +1,15 @@
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\DataFactory.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\DataFactory.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\obj\Debug\DataFactory.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\obj\Debug\DataFactory.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\obj\Debug\DataFactory.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\obj\Debug\DataFactory.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\SecurityScheme.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\SecurityScheme.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\obj\Debug\DataFactory.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\DataFactory.dll.config
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\ReferenceLibrary.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\ReferenceLibrary.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\SendingEmail.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\DataFactory\bin\Debug\SendingEmail.pdb

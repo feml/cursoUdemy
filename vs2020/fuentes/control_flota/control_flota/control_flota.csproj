@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7D1EA1FB-EB5B-49D7-8665-61AE51CA3EEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>control_flota</RootNamespace>
+    <AssemblyName>control_flota</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\control_flota.XML</DocumentationFile>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\C_Datos.cs" />
+    <Compile Include="Contenedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contenedor.Designer.cs">
+      <DependentUpon>Contenedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_anulaciones_taller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_anulaciones_taller.Designer.cs">
+      <DependentUpon>frm_cons_anulaciones_taller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_anulacion_oficinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_anulacion_oficinas.Designer.cs">
+      <DependentUpon>frm_cons_anulacion_oficinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_atendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_atendidos.Designer.cs">
+      <DependentUpon>frm_cons_atendidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_enturnados_oficinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_enturnados_oficinas.Designer.cs">
+      <DependentUpon>frm_cons_enturnados_oficinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_enturnados_taller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_enturnados_taller.Designer.cs">
+      <DependentUpon>frm_cons_enturnados_taller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_parqueaderos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_parqueaderos.Designer.cs">
+      <DependentUpon>frm_cons_parqueaderos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_reparacion_externa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_reparacion_externa.Designer.cs">
+      <DependentUpon>frm_cons_reparacion_externa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_solicitud_ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_solicitud_ingreso.Designer.cs">
+      <DependentUpon>frm_cons_solicitud_ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_taller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas\frm_cons_taller.Designer.cs">
+      <DependentUpon>frm_cons_taller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Control_flota\Clases\C_cont_control_flota.cs" />
+    <Compile Include="Formularios\Control_flota\frm_control_flota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Control_flota\frm_control_flota.Designer.cs">
+      <DependentUpon>frm_control_flota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Control_flota\Interfaces\I_cont_control_flota.cs" />
+    <Compile Include="Formularios\Control_flota\frm_Validacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Control_flota\frm_Validacion.Designer.cs">
+      <DependentUpon>frm_Validacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Clases\C_inco_consultar_inconsistencias.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Clases\C_inco_consultar_parqueadero.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Clases\C_inco_corregir_inconsistencia.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Clases\C_inco_corregir_parqueadero.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_atender_inconsistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_atender_inconsistencias.Designer.cs">
+      <DependentUpon>frm_inco_atender_inconsistencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_atender_parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_atender_parqueadero.Designer.cs">
+      <DependentUpon>frm_inco_atender_parqueadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_consultar_inconsistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_consultar_inconsistencias.Designer.cs">
+      <DependentUpon>frm_inco_consultar_inconsistencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_consultar_parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\frm_inco_consultar_parqueadero.Designer.cs">
+      <DependentUpon>frm_inco_consultar_parqueadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Interfaces\I_inco_consultar_inconsistencias.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Interfaces\I_inco_consultar_parqueadero.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Interfaces\I_inco_corregir_inconsistencia.cs" />
+    <Compile Include="Formularios\Solucionar_Inconsistencias\Interfaces\I_inco_corregir_parqueadero.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_anular_registro.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_ingreso_parqueadero.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_registrar_ingreso.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_salida_parqueadero.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_salida_taller.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_solicitar_turno.cs" />
+    <Compile Include="Formularios\Transacciones\Clases\C_tran_solicitud_ingreso.cs" />
+    <Compile Include="Formularios\Transacciones\frm_tran_anular_registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_anular_registro.Designer.cs">
+      <DependentUpon>frm_tran_anular_registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_ingreso_parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_ingreso_parqueadero.Designer.cs">
+      <DependentUpon>frm_tran_ingreso_parqueadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_ingreso_repexterna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_ingreso_repexterna.Designer.cs">
+      <DependentUpon>frm_tran_ingreso_repexterna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_ingreso_taller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_ingreso_taller.Designer.cs">
+      <DependentUpon>frm_tran_ingreso_taller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_salida_parqueadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_salida_parqueadero.Designer.cs">
+      <DependentUpon>frm_tran_salida_parqueadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_salida_repexterna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_salida_repexterna.Designer.cs">
+      <DependentUpon>frm_tran_salida_repexterna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_salida_taller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_salida_taller.Designer.cs">
+      <DependentUpon>frm_tran_salida_taller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_solicitar_turno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_solicitar_turno.Designer.cs">
+      <DependentUpon>frm_tran_solicitar_turno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_solicitud_ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\frm_tran_solicitud_ingreso.Designer.cs">
+      <DependentUpon>frm_tran_solicitud_ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_anular_registro.cs" />
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_ingreso_parqueadero.cs" />
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_registrar_ingreso.cs" />
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_salida_parqueadero.cs" />
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_salida_taller.cs" />
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_solicitar_turno.cs" />
+    <Compile Include="Formularios\Transacciones\Interfaces\I_tran_solicitud_ingreso.cs" />
+    <Compile Include="Interfaces\I_Datos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Contenedor.es-CO.resx">
+      <DependentUpon>Contenedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contenedor.resx">
+      <DependentUpon>Contenedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_anulaciones_taller.resx">
+      <DependentUpon>frm_cons_anulaciones_taller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_anulacion_oficinas.resx">
+      <DependentUpon>frm_cons_anulacion_oficinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_atendidos.resx">
+      <DependentUpon>frm_cons_atendidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_enturnados_oficinas.resx">
+      <DependentUpon>frm_cons_enturnados_oficinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_enturnados_taller.resx">
+      <DependentUpon>frm_cons_enturnados_taller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_parqueaderos.resx">
+      <DependentUpon>frm_cons_parqueaderos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_reparacion_externa.resx">
+      <DependentUpon>frm_cons_reparacion_externa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_solicitud_ingreso.resx">
+      <DependentUpon>frm_cons_solicitud_ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas\frm_cons_taller.resx">
+      <DependentUpon>frm_cons_taller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Control_flota\frm_control_flota.resx">
+      <DependentUpon>frm_control_flota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Control_flota\frm_Validacion.resx">
+      <DependentUpon>frm_Validacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Solucionar_Inconsistencias\frm_inco_atender_inconsistencias.resx">
+      <DependentUpon>frm_inco_atender_inconsistencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Solucionar_Inconsistencias\frm_inco_atender_parqueadero.resx">
+      <DependentUpon>frm_inco_atender_parqueadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Solucionar_Inconsistencias\frm_inco_consultar_inconsistencias.resx">
+      <DependentUpon>frm_inco_consultar_inconsistencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Solucionar_Inconsistencias\frm_inco_consultar_parqueadero.resx">
+      <DependentUpon>frm_inco_consultar_parqueadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_anular_registro.resx">
+      <DependentUpon>frm_tran_anular_registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_ingreso_parqueadero.resx">
+      <DependentUpon>frm_tran_ingreso_parqueadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_ingreso_taller.resx">
+      <DependentUpon>frm_tran_ingreso_taller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_salida_parqueadero.resx">
+      <DependentUpon>frm_tran_salida_parqueadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_salida_taller.resx">
+      <DependentUpon>frm_tran_salida_taller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_solicitar_turno.resx">
+      <DependentUpon>frm_tran_solicitar_turno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Transacciones\frm_tran_solicitud_ingreso.resx">
+      <DependentUpon>frm_tran_solicitud_ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Formularios\Consultas\Clases\" />
+    <Folder Include="Formularios\Consultas\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\Enturne%28S%29.jpg" />
+    <Content Include="Imagenes\EnViaje%28S%29.png" />
+    <Content Include="Imagenes\Park%28S%29.jpeg" />
+    <Content Include="Imagenes\Taller%28S%29.jpg" />
+    <Content Include="Imagenes\warning-sign1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Oracle.ManagedDataAccess.Core">
+      <Version>2.19.60</Version>
+    </PackageReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,17 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\wfaReporteDespachos.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\wfaReporteDespachos.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\wfaReporteDespachos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.Properties.Resources.resources
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.csproj.GenerateResource.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.ReporteDespachos.resources
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\executionreports.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\buildselect.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\executionreports.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\bin\Debug\buildselect.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\wfaReporteDespachos\obj\Debug\wfaReporteDespachos.csproj.CopyComplete

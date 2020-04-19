@@ -1,0 +1,18 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/mpPrincipal.Master" AutoEventWireup="true" CodeBehind="mpAdmin.master.cs" Inherits="TranserComentarios.admin.mpAdmin" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoMenuContextual" runat="server">
+    <ul id="menuContextual">
+        <li><a href="/TranserComentarios/admin/tipopersona.aspx">Tipo Persona</a></li>
+        <li><a href="/TranserComentarios/admin/tipomensaje.aspx">Tipo Mensaje</a></li>
+        <li><a href="/TranserComentarios/admin/tipodestinatario.aspx">Tipo Destinatario</a></li>
+        <li><a href="/TranserComentarios/admin/tipopersona.aspx">Destinatarios</a></li>
+        <li><a href="/TranserComentarios/admin/reporte.aspx">Reporte</a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" runat="server">
+    <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>

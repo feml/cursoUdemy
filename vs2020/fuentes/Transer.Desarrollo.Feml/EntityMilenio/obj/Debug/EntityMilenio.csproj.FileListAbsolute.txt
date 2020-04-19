@@ -1,0 +1,6 @@
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\EntityMilenio\bin\Debug\EntityMilenio.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\EntityMilenio\bin\Debug\EntityMilenio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\EntityMilenio\obj\Debug\EntityMilenio.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\EntityMilenio\obj\Debug\EntityMilenio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\EntityMilenio\obj\Debug\EntityMilenio.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\EntityMilenio\obj\Debug\EntityMilenio.csproj.CoreCompileInputs.cache

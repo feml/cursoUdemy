@@ -1,0 +1,9 @@
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\bin\Debug\Transer.Desarrollo.Facturacion.Vgp.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\bin\Debug\Transer.Desarrollo.Facturacion.Vgp.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\bin\Debug\Transer.Desarrollo.Facturacion.Entidades.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\bin\Debug\Transer.Desarrollo.Facturacion.Entidades.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\obj\Debug\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\obj\Debug\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\obj\Debug\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\obj\Debug\Transer.Desarrollo.Facturacion.Vgp.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Vgp\obj\Debug\Transer.Desarrollo.Facturacion.Vgp.pdb

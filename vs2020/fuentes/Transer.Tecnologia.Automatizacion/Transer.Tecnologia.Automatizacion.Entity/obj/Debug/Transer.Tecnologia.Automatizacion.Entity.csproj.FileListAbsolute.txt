@@ -1,0 +1,6 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Entity\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Entity\bin\Debug\Transer.Tecnologia.Automatizacion.Entity.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Entity\obj\Debug\Transer.Tecnologia.Automatizacion.Entity.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Entity\obj\Debug\Transer.Tecnologia.Automatizacion.Entity.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Entity\obj\Debug\Transer.Tecnologia.Automatizacion.Entity.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Entity\obj\Debug\Transer.Tecnologia.Automatizacion.Entity.csproj.CoreCompileInputs.cache

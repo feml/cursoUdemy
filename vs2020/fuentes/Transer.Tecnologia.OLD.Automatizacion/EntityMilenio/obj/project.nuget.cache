@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pbc97OyUzqlOgzUormfj+UJNQTeeoo5iKIGmVtqDZ+4/DNXp7bF2AgAmFGbD7mRayP1T0llPidpOyJTq6v78TA==",
+  "success": true,
+  "projectFilePath": "C:\\proyectos\\vs2020\\fuentes\\Transer.Tecnologia.Automatizacion\\EntityMilenio\\EntityMilenio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc_000\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\franc_000\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

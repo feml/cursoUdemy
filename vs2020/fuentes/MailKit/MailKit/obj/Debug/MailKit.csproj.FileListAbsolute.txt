@@ -1,0 +1,16 @@
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MailKit.exe.config
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MailKit.exe
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MailKit.pdb
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\BouncyCastle.Crypto.dll
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MailKit.dll
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MimeKit.dll
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\BouncyCastle.Crypto.xml
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MailKit.xml
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\MimeKit.xml
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\obj\Debug\MailKit.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\obj\Debug\MailKit.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\obj\Debug\MailKit.exe
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\obj\Debug\MailKit.pdb
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\Newtonsoft.Json.dll
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\bin\Debug\Newtonsoft.Json.xml
+C:\proyectos\vs2020\fuentes\MailKit\MailKit\obj\Debug\MailKit.csprojAssemblyReference.cache

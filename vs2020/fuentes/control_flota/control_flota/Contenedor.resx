@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="mst_principal.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="mst_principal.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Trebuchet MS, 9pt</value>
+  </data>
+  <data name="controlDeFlotaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 22</value>
+  </data>
+  <data name="controlDeFlotaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Control de Flota     </value>
+  </data>
+  <data name="tsm_reportes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="tsm_reportes.Text" xml:space="preserve">
+    <value>Consultas     </value>
+  </data>
+  <data name="tsm_control_flota.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 22</value>
+  </data>
+  <data name="tsm_control_flota.Text" xml:space="preserve">
+    <value>Transacciones     </value>
+  </data>
+  <data name="solucionarInconsistenciasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 22</value>
+  </data>
+  <data name="solucionarInconsistenciasToolStripMenuItem.Text" xml:space="preserve">
+    <value>Solucionar Inconsistencias     </value>
+  </data>
+  <data name="tsm_ventana.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 22</value>
+  </data>
+  <data name="tsm_ventana.Text" xml:space="preserve">
+    <value>Ventanas Activas     </value>
+  </data>
+  <data name="salirToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 22</value>
+  </data>
+  <data name="salirToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Salir     </value>
+  </data>
+  <data name="mst_principal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="mst_principal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1264, 26</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="mst_principal.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="mst_principal.Text" xml:space="preserve">
+    <value>MENU_PRINCIPAL</value>
+  </data>
+  <data name="&gt;&gt;mst_principal.Name" xml:space="preserve">
+    <value>mst_principal</value>
+  </data>
+  <data name="&gt;&gt;mst_principal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mst_principal.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mst_principal.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="vehiculosEnturnadosOficinasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="vehiculosEnturnadosOficinasToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vehiculos Enturnados Oficinas</value>
+  </data>
+  <data name="enturneTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="enturneTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vehiculos Enturnados Taller</value>
+  </data>
+  <data name="vehiculosSolicitadosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="vehiculosSolicitadosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vehiculos Solicitados</value>
+  </data>
+  <data name="vehiculosEnTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="vehiculosEnTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vehiculos en Taller</value>
+  </data>
+  <data name="vehiculosAtendidosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="vehiculosAtendidosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vehiculos Atendidos</value>
+  </data>
+  <data name="vehiculosEnParqueaderoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="vehiculosEnParqueaderoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vehiculos en Parqueadero</value>
+  </data>
+  <data name="turnosOficinasAnuladosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="turnosOficinasAnuladosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Turnos Anulados Oficinas</value>
+  </data>
+  <data name="tunosAnuladosTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>242, 22</value>
+  </data>
+  <data name="tunosAnuladosTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tunos Anulados Taller</value>
+  </data>
+  <data name="solicitarTurnoTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="solicitarTurnoTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Solicitar Turno Taller</value>
+  </data>
+  <data name="llamadoIngresoTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="llamadoIngresoTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Llamado Ingreso Taller</value>
+  </data>
+  <data name="registrarIngresoTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="registrarIngresoTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Registrar Ingreso Taller</value>
+  </data>
+  <data name="salidaTallerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="salidaTallerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Salida Taller</value>
+  </data>
+  <data name="anularProcesoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="anularProcesoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Anular Proceso</value>
+  </data>
+  <data name="ingresoParqueaderoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="ingresoParqueaderoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ingreso Parqueadero</value>
+  </data>
+  <data name="salidaParqueaderoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 22</value>
+  </data>
+  <data name="salidaParqueaderoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Salida Parqueadero</value>
+  </data>
+  <data name="consultarInconsistenciasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
+  </data>
+  <data name="consultarInconsistenciasToolStripMenuItem.Text" xml:space="preserve">
+    <value>Consultar Inconsistencias Taller</value>
+  </data>
+  <data name="solucionarInconsistenciasToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
+  </data>
+  <data name="solucionarInconsistenciasToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Solucionar Inconsistencias Taller</value>
+  </data>
+  <data name="consultarInconsistenciasParqueaderoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
+  </data>
+  <data name="consultarInconsistenciasParqueaderoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Consultar Inconsistencias Parqueadero</value>
+  </data>
+  <data name="solucionarInconsistenciasParqueaderoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 22</value>
+  </data>
+  <data name="solucionarInconsistenciasParqueaderoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Solucionar Inconsistencias Parqueadero</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1264, 957</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>CONTROL DE FLOTA                                                                                                                                TRANSER S.A    </value>
+  </data>
+  <data name="&gt;&gt;controlDeFlotaToolStripMenuItem.Name" xml:space="preserve">
+    <value>controlDeFlotaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;controlDeFlotaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsm_reportes.Name" xml:space="preserve">
+    <value>tsm_reportes</value>
+  </data>
+  <data name="&gt;&gt;tsm_reportes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vehiculosEnturnadosOficinasToolStripMenuItem.Name" xml:space="preserve">
+    <value>vehiculosEnturnadosOficinasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vehiculosEnturnadosOficinasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;enturneTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>enturneTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;enturneTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vehiculosSolicitadosToolStripMenuItem.Name" xml:space="preserve">
+    <value>vehiculosSolicitadosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vehiculosSolicitadosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vehiculosEnTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>vehiculosEnTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vehiculosEnTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vehiculosAtendidosToolStripMenuItem.Name" xml:space="preserve">
+    <value>vehiculosAtendidosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vehiculosAtendidosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vehiculosEnParqueaderoToolStripMenuItem.Name" xml:space="preserve">
+    <value>vehiculosEnParqueaderoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vehiculosEnParqueaderoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;turnosOficinasAnuladosToolStripMenuItem.Name" xml:space="preserve">
+    <value>turnosOficinasAnuladosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;turnosOficinasAnuladosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tunosAnuladosTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>tunosAnuladosTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;tunosAnuladosTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsm_control_flota.Name" xml:space="preserve">
+    <value>tsm_control_flota</value>
+  </data>
+  <data name="&gt;&gt;tsm_control_flota.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;solicitarTurnoTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>solicitarTurnoTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;solicitarTurnoTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;llamadoIngresoTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>llamadoIngresoTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;llamadoIngresoTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;registrarIngresoTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>registrarIngresoTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;registrarIngresoTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salidaTallerToolStripMenuItem.Name" xml:space="preserve">
+    <value>salidaTallerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;salidaTallerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;anularProcesoToolStripMenuItem.Name" xml:space="preserve">
+    <value>anularProcesoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;anularProcesoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ingresoParqueaderoToolStripMenuItem.Name" xml:space="preserve">
+    <value>ingresoParqueaderoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ingresoParqueaderoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salidaParqueaderoToolStripMenuItem.Name" xml:space="preserve">
+    <value>salidaParqueaderoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;salidaParqueaderoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;solucionarInconsistenciasToolStripMenuItem.Name" xml:space="preserve">
+    <value>solucionarInconsistenciasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;solucionarInconsistenciasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;consultarInconsistenciasToolStripMenuItem.Name" xml:space="preserve">
+    <value>consultarInconsistenciasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;consultarInconsistenciasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;solucionarInconsistenciasToolStripMenuItem1.Name" xml:space="preserve">
+    <value>solucionarInconsistenciasToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;solucionarInconsistenciasToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;consultarInconsistenciasParqueaderoToolStripMenuItem.Name" xml:space="preserve">
+    <value>consultarInconsistenciasParqueaderoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;consultarInconsistenciasParqueaderoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;solucionarInconsistenciasParqueaderoToolStripMenuItem.Name" xml:space="preserve">
+    <value>solucionarInconsistenciasParqueaderoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;solucionarInconsistenciasParqueaderoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsm_ventana.Name" xml:space="preserve">
+    <value>tsm_ventana</value>
+  </data>
+  <data name="&gt;&gt;tsm_ventana.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;salirToolStripMenuItem1.Name" xml:space="preserve">
+    <value>salirToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;salirToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frm_contenedor</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

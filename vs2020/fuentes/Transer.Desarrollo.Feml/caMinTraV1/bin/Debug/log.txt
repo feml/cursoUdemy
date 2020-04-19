@@ -1,0 +1,13 @@
+Fecha : miércoles, 25 de marzo de 2020  9:19:39 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  update log_reporte_ministerio set  LRMI_ESTADO_V2 =:LRMI_ESTADO,  LRMI_CAMPO2_v2 =:LRMI_CAMPO2,  LRMI_CAMPO3_dt = sysdate  where LRMI_SECUENCIA_NB =:LRMI_SECUENCIA  and LRMI_OFICINA_NB =:LRMI_OFICINA;  end;  
+ 
+Informacion Asociada al Error... 
+Number : -6403
+Procedure : 
+DataSource : Oracle.ManagedDataAccess
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : Transporte de Red: fallo de conexión a la dirección de transporte TCP
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

@@ -1,0 +1,11 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMinisterio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMinisterio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio\obj\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.csproj.CopyComplete

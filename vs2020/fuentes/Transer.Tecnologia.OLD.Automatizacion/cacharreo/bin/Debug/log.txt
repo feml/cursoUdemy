@@ -1,0 +1,13 @@
+Fecha : viernes, 27 de marzo de 2020  5:15:28 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+
+ 
+Informacion Asociada al Error... 
+Number : -6403
+Procedure : 
+DataSource : Oracle.ManagedDataAccess
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : Transporte de Red: fallo de conexión a la dirección de transporte TCP
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

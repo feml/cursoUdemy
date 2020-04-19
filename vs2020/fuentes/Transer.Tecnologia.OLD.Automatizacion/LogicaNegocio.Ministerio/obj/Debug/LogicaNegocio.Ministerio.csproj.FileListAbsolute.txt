@@ -1,0 +1,11 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\bin\Debug\LogicaNegocio.Ministerio.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\bin\Debug\LogicaNegocio.Ministerio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\obj\Debug\LogicaNegocio.Ministerio.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\obj\Debug\LogicaNegocio.Ministerio.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\obj\Debug\LogicaNegocio.Ministerio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\bin\Debug\Infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\bin\Debug\Infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\bin\Debug\Infrastructure.dll.config
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\obj\Debug\LogicaNegocio.Ministerio.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\LogicaNegocio.Ministerio\obj\Debug\LogicaNegocio.Ministerio.csproj.CopyComplete

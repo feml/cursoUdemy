@@ -1,0 +1,13 @@
+Fecha : viernes, 10 de enero de 2020  11:08:37 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select ofic_nombre_v2 oficina,  clie_nombre_v2 cliente,  clie_nit_nb nit,  clie_direccion_v2 direccion,  ofic_codofic_nb codofic,  to_char(fact_fecfact_dt,'DD/MM/YYYY HH24:MI:SS') fecha,  fact_total_nb total  from facturas,clientes,oficinas  where fact_cliepaga_nb=clie_codigo_nb  and fact_oficina_nb=ofic_codofic_nb  and fact_nofactura_nb=:factura;  end; 
+ 
+Informacion Asociada al Error... 
+Number : 1008
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01008: no todas las variables han sido enlazadas
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

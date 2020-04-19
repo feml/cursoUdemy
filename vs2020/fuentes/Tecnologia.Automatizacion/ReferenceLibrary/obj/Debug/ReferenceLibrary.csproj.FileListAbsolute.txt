@@ -1,0 +1,6 @@
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\ReferenceLibrary\bin\Debug\ReferenceLibrary.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\ReferenceLibrary\bin\Debug\ReferenceLibrary.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\ReferenceLibrary\obj\Debug\ReferenceLibrary.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\ReferenceLibrary\obj\Debug\ReferenceLibrary.dll
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\ReferenceLibrary\obj\Debug\ReferenceLibrary.pdb
+C:\proyectos\vs2020\fuentes\Tecnologia.Automatizacion\ReferenceLibrary\obj\Debug\ReferenceLibrary.csprojAssemblyReference.cache

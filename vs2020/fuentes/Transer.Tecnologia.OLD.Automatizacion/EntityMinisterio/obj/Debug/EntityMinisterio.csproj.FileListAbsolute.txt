@@ -1,0 +1,6 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\EntityMinisterio\bin\Debug\EntityMinisterio.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\EntityMinisterio\bin\Debug\EntityMinisterio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\EntityMinisterio\obj\Debug\EntityMinisterio.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\EntityMinisterio\obj\Debug\EntityMinisterio.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\EntityMinisterio\obj\Debug\EntityMinisterio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Automatizacion\EntityMinisterio\obj\Debug\EntityMinisterio.csprojAssemblyReference.cache

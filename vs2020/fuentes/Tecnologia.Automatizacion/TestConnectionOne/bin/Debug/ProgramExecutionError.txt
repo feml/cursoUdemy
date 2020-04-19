@@ -1,0 +1,93 @@
+
+Fecha : miércoles, 15 de abril de 2020  12:52:05 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select *  from oficinas  order by 1; end;
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+ Informacion de los parametros
+Nombre del Parametro : :LRMI_ESTADO
+Valor del Parametro : P
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+ Informacion del Equipo 
+ Nombre del Equipo : krowten-pc
+ Detalle de la tarjeta de Red 
+IPv4 of Machine is 
+192.168.21.34
+IPv4 of Machine is 
+192.168.0.16
+IPv6 of Machine is 
+fe80::b9b4:b0f7:f26b:f824%3
+IPv6 of Machine is 
+fe80::c953:b1c9:8536:172d%10
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+
+
+Fecha : miércoles, 15 de abril de 2020  12:56:37 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select *  from oficinas  order by 1; end;
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+ Informacion de los parametros
+Nombre del Parametro : :LRMI_ESTADO
+Valor del Parametro : P
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+ Informacion del Equipo 
+ Nombre del Equipo : krowten-pc
+ Detalle de la tarjeta de Red 
+IPv4 of Machine is 
+192.168.21.34
+IPv4 of Machine is 
+192.168.0.16
+IPv6 of Machine is 
+fe80::b9b4:b0f7:f26b:f824%3
+IPv6 of Machine is 
+fe80::c953:b1c9:8536:172d%10
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+
+
+Fecha : miércoles, 15 de abril de 2020  1:32:58 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select *  from oficinas  order by 1; end;
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+Informacion Asociada al Error... 
+Number : -6403
+Procedure : 
+DataSource : Oracle.ManagedDataAccess
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : Transporte de Red: fallo de conexión a la dirección de transporte TCP
+ 
+ # # # #  # # # #  # # # #  # # # #  # # # # 
+ Informacion del Equipo 
+ Nombre del Equipo : krowten-pc
+ Detalle de la tarjeta de Red 
+IPv4 of Machine is 
+192.168.0.16
+IPv6 of Machine is 
+fe80::b9b4:b0f7:f26b:f824%3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+

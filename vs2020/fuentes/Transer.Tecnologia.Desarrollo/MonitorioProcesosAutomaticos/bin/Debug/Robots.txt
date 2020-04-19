@@ -1,0 +1,12 @@
+Fecha : miércoles, 08 de enero de 2020  4:37:14 p. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : miércoles, 08 de enero de 2020  4:37:37 p. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : jueves, 09 de enero de 2020  11:00:14 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.
+Fecha : jueves, 09 de enero de 2020  11:00:34 a. m.
+Se Produjo un error de tipo Exception:
+Referencia a objeto no establecida como instancia de un objeto.

@@ -1,0 +1,270 @@
+﻿body {
+    /*vertical-align: middle;
+    width: 960px;
+    background-color: #CCCCCC;
+    height: 900px;
+    padding: 20px;*/
+}
+
+#cabecera {
+    height: 160px;
+    min-width: 960px;
+    /*background-color: #FF7800;*/
+    background-color: #6c84c6;
+    color: white;
+    /*border: 1px dashed #A64E06;*/
+    /*border: 1px dashed #c7c8ca;*/
+    border: 1px inset #000;
+    box-shadow: 0px 0px 10px #000;
+    position: relative;
+    z-index: 2;
+}
+
+#contenidoCabecera {
+    width: 100%;
+    margin: auto;
+}
+
+#barraHorizontal {
+    height: 1px;
+    /*background-color: #A64E06;*/
+    background-color: #6c84c6;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px #000 inset;
+    text-align: center;
+}
+
+/*#barraHorizontal > ul {
+        list-style:none;
+        padding:0;
+        margin:0;
+    }
+    #barraHorizontal li {
+        display:inline-block;
+        padding:10px;
+        cursor:pointer;
+        background-color:#FF9A40;
+        color:#A64E06;
+        box-shadow:0px 0px 5px #000 inset;
+    }
+
+        #barraHorizontal li > a {
+            display:block;
+            color:#A64E06;
+            text-decoration:none;
+            font-weight:bold;
+
+
+        }*/
+#logotipo {
+    width: 24%;
+    float: left;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 60px;
+    /*background-color:#000;*/
+}
+
+    #logotipo > img {
+        width: 100%;
+        /*box-shadow:0px 0px 10px #000;*/
+    }
+
+#titulo {
+    width: 60%;
+    float: left;
+    text-shadow: 2px 2px 3px #000;
+}
+
+/*#titulo > h1 {
+        margin-left:14%;
+        margin-top:5px;
+        font-family:Aparajita;
+    }*/
+#titulouno {
+    margin-left: 14%;
+    margin-top: 5px;
+    font-family: Aparajita;
+    font-size: 40px;
+}
+
+#titulodos {
+    margin-left: 13%;
+    margin-top: -24px;
+    font-family: Aparajita;
+    font-size: 40px;
+}
+/*#titulo > h2 {
+        margin-left:14%;
+        margin-bottom:0px;
+    }*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bajo {
+    width: 100%;
+    min-width: 960px;
+    margin: auto;
+    /*background-color:#FF9A40;*/
+    /*background-color: #c7c8ca;*/
+    background-color: #CCCCCC;
+    border-radius: 0px 0px 20px 20px;
+    overflow: auto;
+    box-shadow: 0px 0px 10px #000;
+}
+
+#columnIzq {
+    float: left;
+    width: 20%;
+    min-height: 20px;
+}
+
+#columnDer {
+    float: left;
+    width: 1%;
+    min-height: 20px;
+}
+
+#columnCentro {
+    float: left;
+    width: 80%;
+    min-height: 20px;
+    min-width: 600px;
+    background-color: #CCCCCC;    
+}
+
+#menuContextual {
+    list-style-type: none;
+    padding: 0;
+    margin: 50px 0;
+}
+
+    #menuContextual > li {
+        padding: 10px;
+        text-align: center;
+        background-color: #6c84c6;
+        color: white;
+        border: 1px outset #6c84c6;
+        box-shadow: 0px 0px 10px #000 inset;
+    }
+
+        #menuContextual > li > a {
+            text-decoration: none;
+            color: white;
+        }
+
+
+#pie {
+    height: 30px;
+    background-color: #6c84c6;
+    border-radius: 0px 0px 20px 20px;
+    text-shadow: 2px 2px 3px #000;
+    clear: both;
+    box-shadow: 0px 0px 5px #000 inset;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+.style1 {
+    width: 60%;
+    border-style: solid;
+    border-width: 1px;
+    text-align: left;
+}
+
+.style2 {
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.style3 {
+    width: 85%;
+    text-align: left;
+    font-family: Arial;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.style4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: small;
+    text-align: justify;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.style5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.style6 {
+    text-align: justify;
+}
+
+
+
+
+/* Bloque formulario reporte*/
+
+#tituloReporte {
+    height: 30px;
+    width: 100%;
+}
+
+    #tituloReporte > h2 {
+        text-align: center;
+        text-shadow: 1px 1px 3px #5D7B9D;
+    }
+
+#bqformularioReporte {
+    height: 380px;
+    width: 100%;
+}
+
+#bqcontenidoformularioReporte {
+    height: 285px;
+    width: 506px;
+    margin-left: 5%;
+    margin-top: 20px;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 0px 15px #000;
+}
+
+#idafan {
+    height: 50px;
+    width: 80%;
+}

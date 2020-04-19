@@ -1,0 +1,89 @@
+Fecha : miércoles, 08 de enero de 2020  4:19:37 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select OFIC_NOMBRE_V2,  VIAJ_NOPLANILLA_V2,  to_char(VIAJ_FECVIAJE_DT, 'DD/MM/YYYY HH24:MI:SS') VIAJ_FECVIAJE_DT,  LRMI_SECUENCIA_NB,  LRMI_OFICINA_NB,  to_char(LRMI_FECREGISTRO_DT, 'DD/MM/YYYY HH24:MI:SS') LRMI_FECREGISTRO_DT,  LRMI_ESTADO_V2,  DELM_SECUENCIA_NB,  DELM_ESTADO_V2,  DELM_IDMINISTERIO_NB,  to_char(DELM_FECENVIO_DT, 'DD/MM/YYYY HH24:MI:SS') DELM_FECENVIO_DT  from viajes,oficinas,log_reporte_ministerio, det_log_ministerio  where VIAJ_OFDESPACHA_NB = OFIC_CODOFIC_NB  and VIAJ_NOPLANILLA_V2 = LRMI_LLAVE_V2  and trunc(VIAJ_FECVIAJE_DT) between trunc(fecIni) and trunc(fecFin)  and DELM_LOGSECUENCIA_NB = LRMI_SECUENCIA_NB  and DELM_OFICINA_NB = LRMI_OFICINA_NB  and LRMI_TRANSACCION_NB = 4  and VIAJ_OFDESPACHA_NB=:codOficina  order by 3; end;
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : miércoles, 08 de enero de 2020  4:37:14 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select OFIC_NOMBRE_V2,  VIAJ_NOPLANILLA_V2,  to_char(VIAJ_FECVIAJE_DT, 'DD/MM/YYYY HH24:MI:SS') VIAJ_FECVIAJE_DT,  LRMI_SECUENCIA_NB,  LRMI_OFICINA_NB,  to_char(LRMI_FECREGISTRO_DT, 'DD/MM/YYYY HH24:MI:SS') LRMI_FECREGISTRO_DT,  decode(LRMI_ESTADO_V2,'P','Pendiente','E','Enviado','R','Rechazado','U','Urbano',LRMI_ESTADO_V2) LRMI_ESTADO_V2,  DELM_SECUENCIA_NB,  decode(DELM_ESTADO_V2,'P','Pendiente','E','Enviado','R','Rechazado','U','Urbano',DELM_ESTADO_V2) DELM_ESTADO_V2,  DELM_IDMINISTERIO_NB,  to_char(DELM_FECENVIO_DT, 'DD/MM/YYYY HH24:MI:SS') DELM_FECENVIO_DT  from viajes,oficinas,log_reporte_ministerio, det_log_ministerio  where VIAJ_OFDESPACHA_NB = OFIC_CODOFIC_NB  and VIAJ_NOPLANILLA_V2 = LRMI_LLAVE_V2  and trunc(VIAJ_FECVIAJE_DT) between trunc(:fecIni) and trunc(:fecFin)  and DELM_LOGSECUENCIA_NB = LRMI_SECUENCIA_NB  and DELM_OFICINA_NB = LRMI_OFICINA_NB  and LRMI_TRANSACCION_NB = 4  order by 3; end;
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : miércoles, 08 de enero de 2020  4:37:37 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select OFIC_NOMBRE_V2,  VIAJ_NOPLANILLA_V2,  to_char(VIAJ_FECVIAJE_DT, 'DD/MM/YYYY HH24:MI:SS') VIAJ_FECVIAJE_DT,  LRMI_SECUENCIA_NB,  LRMI_OFICINA_NB,  to_char(LRMI_FECREGISTRO_DT, 'DD/MM/YYYY HH24:MI:SS') LRMI_FECREGISTRO_DT,  decode(LRMI_ESTADO_V2,'P','Pendiente','E','Enviado','R','Rechazado','U','Urbano',LRMI_ESTADO_V2) LRMI_ESTADO_V2,  DELM_SECUENCIA_NB,  decode(DELM_ESTADO_V2,'P','Pendiente','E','Enviado','R','Rechazado','U','Urbano',DELM_ESTADO_V2) DELM_ESTADO_V2,  DELM_IDMINISTERIO_NB,  to_char(DELM_FECENVIO_DT, 'DD/MM/YYYY HH24:MI:SS') DELM_FECENVIO_DT  from viajes,oficinas,log_reporte_ministerio, det_log_ministerio  where VIAJ_OFDESPACHA_NB = OFIC_CODOFIC_NB  and VIAJ_NOPLANILLA_V2 = LRMI_LLAVE_V2  and trunc(VIAJ_FECVIAJE_DT) between trunc(:fecIni) and trunc(:fecFin)  and DELM_LOGSECUENCIA_NB = LRMI_SECUENCIA_NB  and DELM_OFICINA_NB = LRMI_OFICINA_NB  and LRMI_TRANSACCION_NB = 4  order by 3; end;
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : miércoles, 08 de enero de 2020  4:38:29 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select OFIC_NOMBRE_V2,  VIAJ_NOPLANILLA_V2,  to_char(VIAJ_FECVIAJE_DT, 'DD/MM/YYYY HH24:MI:SS') VIAJ_FECVIAJE_DT,  LRMI_SECUENCIA_NB,  LRMI_OFICINA_NB,  to_char(LRMI_FECREGISTRO_DT, 'DD/MM/YYYY HH24:MI:SS') LRMI_FECREGISTRO_DT,  decode(LRMI_ESTADO_V2,'P','Pendiente','E','Enviado','R','Rechazado','U','Urbano',LRMI_ESTADO_V2) LRMI_ESTADO_V2,  DELM_SECUENCIA_NB,  decode(DELM_ESTADO_V2,'P','Pendiente','E','Enviado','R','Rechazado','U','Urbano',DELM_ESTADO_V2) DELM_ESTADO_V2,  DELM_IDMINISTERIO_NB,  to_char(DELM_FECENVIO_DT, 'DD/MM/YYYY HH24:MI:SS') DELM_FECENVIO_DT  from viajes,oficinas,log_reporte_ministerio, det_log_ministerio  where VIAJ_OFDESPACHA_NB = OFIC_CODOFIC_NB  and VIAJ_NOPLANILLA_V2 = LRMI_LLAVE_V2  and trunc(VIAJ_FECVIAJE_DT) between trunc(:fecIni) and trunc(:fecFin)  and DELM_LOGSECUENCIA_NB = LRMI_SECUENCIA_NB  and DELM_OFICINA_NB = LRMI_OFICINA_NB  and LRMI_TRANSACCION_NB = 4  order by 3; end;
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : jueves, 09 de enero de 2020  8:22:11 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select OFIC_NOMBRE_V2,  VIAJ_NOPLANILLA_V2,  to_char(VIAJ_FECVIAJE_DT, 'DD/MM/YYYY HH24:MI:SS') VIAJ_FECVIAJE_DT,  from viajes,oficinas  where VIAJ_OFDESPACHA_NB = OFIC_CODOFIC_NB  and trunc(VIAJ_FECVIAJE_DT) between trunc(:fecIni) and trunc(:fecFin)  and VIAJ_OFDESPACHA_NB>=:codOficina  order by 3; end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 152:
+PL/SQL: ORA-00936: falta una expresión
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : jueves, 09 de enero de 2020  11:00:14 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select DESE_SECUENCIA_NB,  REDE_SECUENCIA_NB,  REDE_OFICINA_NB,  REDE_FECHA_DT REDE_FECHA_DT,  decode(REDE_ESTADO_V2, 'P', 'PENDIENTE', 'E', 'ENVIADO', 'R', 'RECHAZADO', 'U', 'URBANO', REDE_ESTADO_V2) REDE_ESTADO_V2,  decode(DESE_ESTADO_V2, 'P', 'PENDIENTE', 'E', 'ENVIADO', 'R', 'RECHAZADO', 'U', 'URBANO', DESE_ESTADO_V2) DESE_ESTADO_V2,  DESE_NUMACEPTA_NB,  to_char(DESE_FECPROCESA_DT, 'DD/MM/YYYY HH24:MI:SS') DESE_FECPROCESA_DT  from log_reporte_deseguro, det_log_desseguro  where DESE_DESEGURO_NB = REDE_SECUENCIA_NB  and DESE_OFICINA_NB = REDE_OFICINA_NB  and REDE_LLAVE_V2 = :llave;  order by 1,2;  end; 
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 629:
+PLS-00103: Encountered the symbol "ORDER" when expecting one of the following:
+
+   ( begin case declare end exception exit for goto if loop mod
+   null pragma raise return select update while with
+   <an identifier> <a double-quoted delimited-identifier>
+   <a bind variable> << continue close current delete fetch lock
+   insert open rollback savepoint set sql execute commit forall
+   merge pipe purge
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

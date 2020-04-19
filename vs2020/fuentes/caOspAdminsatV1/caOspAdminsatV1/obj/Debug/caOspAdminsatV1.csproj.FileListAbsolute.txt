@@ -1,0 +1,10 @@
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\bin\Debug\caOspAdminsatV1.exe.config
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\bin\Debug\caOspAdminsatV1.exe
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\bin\Debug\caOspAdminsatV1.pdb
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\bin\Debug\Oracle.DataAccess.dll
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\obj\Debug\caOspAdminsatV1.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\obj\Debug\caOspAdminsatV1.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\obj\Debug\caOspAdminsatV1.exe
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\obj\Debug\caOspAdminsatV1.pdb
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\bin\Debug\Newtonsoft.Json.dll
+C:\proyectos\vs2019\fuentes\caOspAdminsatV1\caOspAdminsatV1\obj\Debug\caOspAdminsatV1.csprojAssemblyReference.cache

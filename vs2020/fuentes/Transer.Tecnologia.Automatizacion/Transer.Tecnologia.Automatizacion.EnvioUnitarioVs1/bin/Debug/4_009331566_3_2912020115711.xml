@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+  <acceso>
+    <username>TYSROBOT@0764</username>
+    <password>TYS8605</password>
+    <simulacion>S</simulacion>
+  </acceso>
+  <solicitud>
+    <tipo>1</tipo>
+    <procesoid>4</procesoid>
+  </solicitud>
+  <variables>
+    <NUMNITEMPRESATRANSPORTE>8605048823</NUMNITEMPRESATRANSPORTE>
+    <numManifiestoCarga>009331566</numManifiestoCarga>
+    <codOperacionTransporte>G</codOperacionTransporte>
+    <fechaExpedicionManifiesto>31/10/2019</fechaExpedicionManifiesto>
+    <codMunicipioOrigenManifiesto>76109000</codMunicipioOrigenManifiesto>
+    <codMunicipioDestinoManifiesto>76111000</codMunicipioDestinoManifiesto>
+    <codIdTitularManifiesto>C</codIdTitularManifiesto>
+    <numIdTitularManifiesto>14894931</numIdTitularManifiesto>
+    <numPlaca>XIA808</numPlaca>
+    <codIdConductor>C</codIdConductor>
+    <numIdconductor>14894931</numIdconductor>
+    <valorFletePactadoViaje>792000</valorFletePactadoViaje>
+    <retencionFuenteManifiesto>1</retencionFuenteManifiesto>
+    <retencionIcaManifiestoCarga>5.3010</retencionIcaManifiestoCarga>
+    <ValorAnticipoManifiesto>550000</ValorAnticipoManifiesto>
+    <codMunicipioPagoSaldo>76109000</codMunicipioPagoSaldo>
+    <fechaPagoSaldoManifiesto>10/11/2019</fechaPagoSaldoManifiesto>
+    <codResponsablePagoCargue>R</codResponsablePagoCargue>
+    <codResponsablePagoDescargue>D</codResponsablePagoDescargue>
+    <observaciones>3233451899</observaciones>
+    <REMESASMAN procesoid="43">
+      <REMESA>
+        <consecutivoRemesa>1691580</consecutivoRemesa>
+      </REMESA>
+    </REMESASMAN>
+  </variables>
+</root>

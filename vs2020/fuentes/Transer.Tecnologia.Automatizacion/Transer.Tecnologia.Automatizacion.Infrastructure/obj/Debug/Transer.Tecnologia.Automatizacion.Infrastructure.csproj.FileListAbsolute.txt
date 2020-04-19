@@ -1,0 +1,8 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\obj\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\obj\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\obj\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\obj\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.Infrastructure\obj\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.csproj.CoreCompileInputs.cache

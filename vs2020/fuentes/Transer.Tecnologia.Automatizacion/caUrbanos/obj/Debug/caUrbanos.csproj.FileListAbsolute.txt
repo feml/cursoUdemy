@@ -1,0 +1,14 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\obj\Debug\caUrbanos.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\caUrbanos.exe.config
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\caUrbanos.exe
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\caUrbanos.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMinisterio.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Transer.Tecnologia.Automatizacion.caUrbanosLogicaNegocio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Transer.Tecnologia.Automatizacion.EntityMinisterio.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\obj\Debug\caUrbanos.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\obj\Debug\caUrbanos.exe
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\caUrbanos\obj\Debug\caUrbanos.pdb

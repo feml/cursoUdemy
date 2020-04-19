@@ -1,0 +1,4 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\executionreports\bin\Debug\executionreports.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\executionreports\bin\Debug\executionreports.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\executionreports\obj\Debug\executionreports.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\executionreports\obj\Debug\executionreports.pdb

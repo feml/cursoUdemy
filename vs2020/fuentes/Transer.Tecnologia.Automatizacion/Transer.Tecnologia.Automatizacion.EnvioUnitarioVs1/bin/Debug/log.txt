@@ -1,0 +1,39 @@
+Fecha : lunes, 27 de enero de 2020  4:18:52 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  update log_reporte_ministerio set  LRMI_ESTADO_V2 =:LRMI_ESTADO  where LRMI_SECUENCIA_NB =:LRMI_SECUENCIA  and LRMI_OFICINA_NB =:LRMI_OFICINA;  end;  
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : lunes, 27 de enero de 2020  4:19:33 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  update log_reporte_ministerio set  LRMI_ESTADO_V2 =:LRMI_ESTADO  where LRMI_SECUENCIA_NB =:LRMI_SECUENCIA  and LRMI_OFICINA_NB =:LRMI_OFICINA;  end;  
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 
+Fecha : miércoles, 29 de enero de 2020  11:50:16 a. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  update log_reporte_ministerio set  LRMI_ESTADO_V2 =:LRMI_ESTADO  where LRMI_SECUENCIA_NB =:LRMI_SECUENCIA  and LRMI_OFICINA_NB =:LRMI_OFICINA;  end;  
+ 
+Informacion Asociada al Error... 
+Number : 1006
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-01006: la variable de enlace no existe
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

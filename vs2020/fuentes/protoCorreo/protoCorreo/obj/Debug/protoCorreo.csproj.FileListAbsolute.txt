@@ -1,0 +1,15 @@
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\protoCorreo.dll
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\protoCorreo.pdb
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\BouncyCastle.Crypto.dll
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\MailKit.dll
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\MimeKit.dll
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\Newtonsoft.Json.dll
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\BouncyCastle.Crypto.xml
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\MailKit.xml
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\MimeKit.xml
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\bin\Debug\Newtonsoft.Json.xml
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\obj\Debug\protoCorreo.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\obj\Debug\protoCorreo.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\obj\Debug\protoCorreo.dll
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\obj\Debug\protoCorreo.pdb
+C:\proyectos\vs2020\fuentes\protoCorreo\protoCorreo\obj\Debug\protoCorreo.csprojAssemblyReference.cache

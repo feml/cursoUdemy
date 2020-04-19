@@ -1,0 +1,5 @@
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Registro\bin\Debug\Transer.Desarrollo.Facturacion.Registro.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Registro\bin\Debug\Transer.Desarrollo.Facturacion.Registro.pdb
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Registro\obj\Debug\Transer.Desarrollo.Facturacion.Registro.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Registro\obj\Debug\Transer.Desarrollo.Facturacion.Registro.dll
+C:\proyectos\vs2019\fuentes\Transer.Desarrollo.Facturacion\Transer.Desarrollo.Facturacion.Registro\obj\Debug\Transer.Desarrollo.Facturacion.Registro.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeNCdUlghWqd2QUBKC+rsp3oZHqbUZzotyK3YFqAhGmwzbrVo2LGqpZ8lZaI2H6SLO/8E5ran35IYeY9kZW4sw==",
+  "success": true,
+  "projectFilePath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc_000\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.31\\oracle.manageddataaccess.core.2.19.31.nupkg.sha512"
+  ],
+  "logs": []
+}

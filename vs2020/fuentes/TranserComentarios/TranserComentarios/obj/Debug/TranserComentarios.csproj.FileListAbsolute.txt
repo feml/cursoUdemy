@@ -1,0 +1,12 @@
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\bin\TranserComentarios.dll
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\bin\TranserComentarios.pdb
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.dll
+C:\proyectos\nvargas\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.pdb
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\bin\TranserComentarios.dll
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\bin\TranserComentarios.pdb
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.dll
+C:\proyectos\fuentes\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.pdb
+C:\proyectos\vs2020\fuentes\TranserComentarios\TranserComentarios\bin\TranserComentarios.dll
+C:\proyectos\vs2020\fuentes\TranserComentarios\TranserComentarios\bin\TranserComentarios.pdb
+C:\proyectos\vs2020\fuentes\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.dll
+C:\proyectos\vs2020\fuentes\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.pdb

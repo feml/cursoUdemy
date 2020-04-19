@@ -1,0 +1,8 @@
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\obj\Debug\infrastructure.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\obj\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\obj\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\obj\Debug\infrastructure.csproj.CoreCompileInputs.cache
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\infrastructure\obj\Debug\infrastructure.csprojAssemblyReference.cache

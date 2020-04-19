@@ -1,0 +1,17 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\MonitorioProcesosAutomaticos.exe.config
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\MonitorioProcesosAutomaticos.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\MonitorioProcesosAutomaticos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitoreoProcesosAutomaticos.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitorioProcesosAutomaticos.Properties.Resources.resources
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitoreoProcesosAutomaticos.csproj.GenerateResource.cache
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitorioProcesosAutomaticos.exe
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitorioProcesosAutomaticos.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitorioProcesosAutomaticos.Robots.resources
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\executionreports.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\buildselect.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\executionreports.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\bin\Debug\buildselect.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\MonitorioProcesosAutomaticos\obj\Debug\MonitoreoProcesosAutomaticos.csproj.CopyComplete

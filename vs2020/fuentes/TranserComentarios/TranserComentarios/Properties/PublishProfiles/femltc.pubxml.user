@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\tc</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admin/default.aspx">
+      <publishTime>08/14/2017 12:19:30</publishTime>
+    </File>
+    <File Include="admin/destinatarios.aspx">
+      <publishTime>08/14/2017 13:28:02</publishTime>
+    </File>
+    <File Include="admin/errorlogin.aspx">
+      <publishTime>08/10/2017 13:54:57</publishTime>
+    </File>
+    <File Include="admin/inicializar.aspx">
+      <publishTime>08/10/2017 13:54:57</publishTime>
+    </File>
+    <File Include="admin/login.aspx">
+      <publishTime>08/25/2017 11:22:38</publishTime>
+    </File>
+    <File Include="admin/mpAdmin.master">
+      <publishTime>08/28/2017 09:25:30</publishTime>
+    </File>
+    <File Include="admin/reporte.aspx">
+      <publishTime>08/28/2017 09:47:08</publishTime>
+    </File>
+    <File Include="admin/tipodestinatario.aspx">
+      <publishTime>08/14/2017 14:24:22</publishTime>
+    </File>
+    <File Include="admin/tipomensaje.aspx">
+      <publishTime>08/14/2017 14:35:24</publishTime>
+    </File>
+    <File Include="admin/tipopersona.aspx">
+      <publishTime>08/14/2017 14:33:56</publishTime>
+    </File>
+    <File Include="App_Themes/tysTemas/estilompPrincipal.css">
+      <publishTime>08/28/2017 09:44:49</publishTime>
+    </File>
+    <File Include="bin/TranserComentarios.dll">
+      <publishTime>03/11/2017 11:27:09</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/02/2017 09:01:39</publishTime>
+    </File>
+    <File Include="imagenes/certificaciones.png">
+      <publishTime>07/21/2017 18:01:21</publishTime>
+    </File>
+    <File Include="imagenes/fulllogo.png">
+      <publishTime>07/21/2017 18:01:18</publishTime>
+    </File>
+    <File Include="imagenes/Logo-transer.png">
+      <publishTime>07/21/2017 16:27:21</publishTime>
+    </File>
+    <File Include="imagenes/reciclar.png">
+      <publishTime>07/21/2017 18:01:13</publishTime>
+    </File>
+    <File Include="mpPrincipal.Master">
+      <publishTime>11/03/2017 12:12:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/11/2017 11:27:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

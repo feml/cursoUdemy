@@ -1,0 +1,11 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Transer.Tecnologia.Automatizacion.EntityBavaria.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\bin\Debug\Transer.Tecnologia.Automatizacion.Infrastructure.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.csproj.CopyComplete
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.LogicaNegocioTest\obj\Debug\Transer.Tecnologia.Automatizacion.LogicaNegocioTest.csprojAssemblyReference.cache

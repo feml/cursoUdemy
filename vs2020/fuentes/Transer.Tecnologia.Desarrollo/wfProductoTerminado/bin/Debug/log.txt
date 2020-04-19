@@ -1,0 +1,16 @@
+Fecha : lunes, 20 de enero de 2020  4:55:48 p. m.
+Se Produjo un error al ejecutar el comando de tipo OracleException:
+ declare  begin  open :refcur1 for  select LRMI_OFICINA_NB CODOFI,   OFIC_NOMBRE_V2 OFICINA,  CLIE_NOMBRE_V2 CLIENTE,  LRMI_ESTADO_V2 ESTADO,  DELM_SECUENCIA_NB SEC,  DELM_LOGSECUENCIA_NB LOGSEC,  DELM_LLAVE_V2 ORDEN,  DELM_ESTADO_V2 DETESTADO,  DELM_XMLENVIADO_XML ENVIADO,  to_char(DELM_FECENVIO_DT,'DD/MM/YYYY HH24:MI:SS') FECHA,  DELM_XMLRECIBIDO_XML RECIBIDO   from oficinas, log_reporte_ministerio, det_log_ministerio, ordenes_cargue, negocios, clientes   where LRMI_SECUENCIA_NB = DELM_LOGSECUENCIA_NB   and LRMI_OFICINA_NB = DELM_OFICINA_NB   and OFIC_CODOFIC_NB = LRMI_OFICINA_NB   and LRMI_TRANSACCION_NB = 3   and LRMI_ESTADO_V2 = 'R'   and LRMI_LLAVE_V2 = ORCA_NUMERO_NB   and ORCA_NEGOCIO_NB = NEGO_NRONEGOCIO_NB   and NEGO_CLIENTENEGO_NB = CLIE_CODIGO_NB   and trunc(LRMI_FECREGISTRO_DT) = trunc(sysdate)   order by codigo_OFICINA, LOGSEC, SEC;  end;
+ 
+Informacion Asociada al Error... 
+Number : 6550
+Procedure : 
+DataSource : 
+Source : Oracle Data Provider for .NET, Managed Driver
+ErrorCode : -2147467259
+Mensaje : ORA-06550: línea 1, columna 831:
+PL/SQL: ORA-00904: "CODIGO_OFICINA": identificador no válido
+ORA-06550: línea 1, columna 37:
+PL/SQL: SQL Statement ignored
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ 

@@ -1,0 +1,15 @@
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\fml.dll.config
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\fml.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\fml.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\EntityMilenio.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\EntityMinisterio.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\infrastructure.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\EntityMilenio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\EntityMinisterio.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\bin\Debug\infrastructure.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\obj\Debug\fml.csprojAssemblyReference.cache
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\obj\Debug\fml.csproj.CopyComplete
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\obj\Debug\fml.dll
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\obj\Debug\fml.pdb
+C:\proyectos\vs2020\fuentes\Transer.Desarrollo.Feml\fml\obj\Debug\fml.csproj.CoreCompileInputs.cache

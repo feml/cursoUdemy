@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\proyectos\\vs2020\\fuentes\\control_flota\\control_flota\\control_flota.csproj": {}
+  },
+  "projects": {
+    "C:\\proyectos\\vs2020\\fuentes\\control_flota\\control_flota\\control_flota.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2020\\fuentes\\control_flota\\control_flota\\control_flota.csproj",
+        "projectName": "control_flota",
+        "projectPath": "C:\\proyectos\\vs2020\\fuentes\\control_flota\\control_flota\\control_flota.csproj",
+        "packagesPath": "C:\\Users\\franc_000\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectos\\vs2020\\fuentes\\control_flota\\control_flota\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\franc_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.60, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

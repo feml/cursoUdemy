@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mpPrincipal.master.cs" Inherits="TranserComentarios.mpPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="capaTotal">
+            <div id="cabecera">
+                <div id="contenidoCabecera">
+                    <div id="barraHorizontal">
+                    </div>
+                    <div id="logotipo">
+                        <img src="imagenes/Logo-transer.png" width="90" alt="Logo Transer" />
+                    </div>
+                    <div id="titulo">
+                        <h1 id="titulouno">ESPACIO PARA EL REPORTE</h1>
+                        <h1 id="titulodos">PARTICIPACIÓN Y CONSULTA</h1>
+                    </div>
+                </div>
+            </div>
+            <div id="bajo">
+                <div id="columnIzq">
+                    <asp:ContentPlaceHolder ID="contenidoMenuContextual" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="columnCentro">
+                    <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="columnDer">
+                </div>
+                <div id="pie">
+                    <span>@Copyrigth TRANSER S.A 2017 Ver 1.1</span>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

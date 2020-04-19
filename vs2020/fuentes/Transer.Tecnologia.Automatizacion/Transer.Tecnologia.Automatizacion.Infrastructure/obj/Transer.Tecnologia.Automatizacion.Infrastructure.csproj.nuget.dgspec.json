@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Tecnologia.Automatizacion\\Transer.Tecnologia.Automatizacion.Infrastructure\\Transer.Tecnologia.Automatizacion.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Tecnologia.Automatizacion\\Transer.Tecnologia.Automatizacion.Infrastructure\\Transer.Tecnologia.Automatizacion.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Tecnologia.Automatizacion\\Transer.Tecnologia.Automatizacion.Infrastructure\\Transer.Tecnologia.Automatizacion.Infrastructure.csproj",
+        "projectName": "Transer.Tecnologia.Automatizacion.Infrastructure",
+        "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Tecnologia.Automatizacion\\Transer.Tecnologia.Automatizacion.Infrastructure\\Transer.Tecnologia.Automatizacion.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\franc_000\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Tecnologia.Automatizacion\\Transer.Tecnologia.Automatizacion.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\franc_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[19.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\buildselect\bin\Debug\buildselect.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\buildselect\bin\Debug\buildselect.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\buildselect\obj\Debug\buildselect.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\buildselect\obj\Debug\buildselect.pdb

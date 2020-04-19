@@ -1,0 +1,4 @@
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\entities\bin\Debug\entities.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\entities\bin\Debug\entities.pdb
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\entities\obj\Debug\entities.dll
+C:\proyectos\vs2020\fuentes\Transer.Tecnologia.Desarrollo\entities\obj\Debug\entities.pdb

@@ -1,0 +1,5 @@
+C:\proyectos\pruebas\TranserComentarios\TranserComentarios\bin\TranserComentarios.dll
+C:\proyectos\pruebas\TranserComentarios\TranserComentarios\bin\TranserComentarios.pdb
+C:\proyectos\pruebas\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.dll
+C:\proyectos\pruebas\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.pdb
+C:\proyectos\pruebas\TranserComentarios\TranserComentarios\obj\Debug\TranserComentarios.csprojResolveAssemblyReference.cache

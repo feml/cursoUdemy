@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj": {}
+  },
+  "projects": {
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj",
+        "projectName": "Transer.Desarrollo.Facturacion.Correo",
+        "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj"
+              },
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj"
+              },
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj",
+        "projectName": "Transer.Desarrollo.Facturacion.Entidades",
+        "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj",
+        "projectName": "Transer.Desarrollo.Facturacion.OracleManagedData",
+        "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\Transer.Desarrollo.Facturacion.OracleManagedData.csproj",
+        "packagesPath": "C:\\Users\\franc_000\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.OracleManagedData\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\franc_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Correo\\Transer.Desarrollo.Facturacion.Correo.csproj"
+              },
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj"
+              },
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj"
+              },
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.31, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj",
+        "projectName": "Transer.Desarrollo.Facturacion.Registro",
+        "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Registro\\Transer.Desarrollo.Facturacion.Registro.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj",
+        "projectName": "Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto",
+        "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Vgp\\Transer.Desarrollo.Facturacion.VariablesGlobalesProyecto.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj": {
+                "projectPath": "C:\\proyectos\\vs2019\\fuentes\\Transer.Desarrollo.Facturacion\\Transer.Desarrollo.Facturacion.Entidades\\Transer.Desarrollo.Facturacion.Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EncodingFE\bin\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EncodingFE\bin\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EncodingFE\obj\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.dll
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EncodingFE\obj\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.pdb
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EncodingFE\obj\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.csprojAssemblyReference.cache
+C:\proyectos\vs2019\fuentes\Transer.Tecnologia.Automatizacion\Transer.Tecnologia.Automatizacion.EncodingFE\obj\Debug\Transer.Tecnologia.Automatizacion.EncodingFE.csproj.CoreCompileInputs.cache
