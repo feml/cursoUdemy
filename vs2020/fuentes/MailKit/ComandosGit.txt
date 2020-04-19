@@ -1,0 +1,68 @@
+Comandos git
+git --version => version del git
+clear  => limpia la pantalla
+git help  => muestra la ayuda
+git help commit  => muestra la ayuda relacionada con el comando commit
+git config --global user.name "sirkFrank"  => define el nombre del administrador
+git config --global user.email "francisco.montoya.l@gmail.com"  => define el correo del administrador
+git config core.autocrlf true => corrige el error de interpretacion del caracter CLRF
+git config --global -e => edita las configuraciones globales de git
+ls  => indica la carpeta actual
+cd nombrecarpeta  => cambia ubicacion a la nombrecarpeta
+ls -al  => lista el contenido de la nombrecarpeta
+git init  => comando para crear un repositorio local
+git status => muestra el estado de los archivos, cuales se modificarion, cuales estan en el state.
+git add . => agrega todos los archivos al esquema de actualizacion
+git add nombreArchivo.extension => agrega el archivo al state
+git commit -m "Primer Backup 17042020 083445"  => crea un registro historico con los cambios sucedidos en los archivos hasta el momento; es decir  toma la fotogfrafia del proyecto actual
+git checkout . => recupera toda la informacion alamcenada en el proyecto.
+pwd => muestra la ubicacion actual; es decir en que carpeta estamos.
+git log => recupera la informacion de los commits realizados desde el mas reciente al mas viejo
+
+*** Diferentes formas de agregar archivos al escenario ***
+git add . => agrega todos las carpetas y archivos.
+git add nombreArchivo.extension => agrega el archivos relacionado
+git add *.png => agrega todos los archivos con extencion .padding
+git add nombreCarpeta/ => agrega todos los archivos que se encuetran dentro de esa carpeta
+git add -A => agrega todos los archivos que fueron modificados
+git add "*.txt" => agrega todos los txt de todo el proyecto
+git add *.txt => agrega todos los txt del directorio actual
+git add -all => agrega todos los archivos que han sufrido modificaciones al escenario
+git add .     => agrega todos los archivos que han sufrido modificaciones al escenario
+git add <lista de archivos> => agrega los archivos que listemos ejm (git add loco.txt vida.txt ejem.doc )
+git add pdfs/*.txt => agrega todos los txt dentro de la carpeta pdfs
+git add pdfs/ => agrega todos los archivos dentro de la carpeta pdfs
+*** Diferentes formas de agregar archivos al escenario ***
+
+**** formas de revisar el log ********
+git log
+git log --oneline
+git log --oneline --decorate --all --graph
+
+**** formas de revisar el status ********
+git status -s
+git status -s -b
+
+**** Crear alias para los comandos ********
+git config --global alias.lg "log --oneline --decorate --all --graph"
+git config --global alias.s "status -s -b"
+
+
+******************
+git diff => nos permite visualizar los cambios realizados
+git diff --staged => permite visualizar los cambios de los archivos que estan en el staged y que aun no se ha ejecutado un commit
+
+
+
+git reset *.xml => excluye del escenario todos los archivos cuya extension sea xml
+git reset HEAD nombreArchivo.extension => elimina un archivo del staged
+git checkout -- nombreArchivo.extension => Deja el archivo como estaba sin modificaciones
+
+
+
+****** ACTUALIZAR MENSAJE DEL COMMIT y MODIFICACR MENSAJES ****
+git commit -am "menasje" => agrega los archivos que hayan tenido modificaciones y realiza el commit.
+git commit --amend -m "Se agrega linea que sera muy util para actualizar los cambios todos los dias"
+git reset --soft HEAD => Elimina el ultimo commit
+git reset --mixed
+git reset --hard
